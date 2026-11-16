@@ -1,0 +1,68 @@
+slide,quantity,on_slide,recomputed,source,ok
+23,"memory-blind shift of mean ln K, all 6 conditions",−0.17 to −0.54,−0.17 to −0.54,"first_run/tables/table_false_heterogeneity.csv (blind_btc_h, dmu_mean)",True
+32,"memory-blind shift of mean ln K, all 6 conditions",−0.17 to −0.54,−0.17 to −0.54,"first_run/tables/table_false_heterogeneity.csv (blind_btc_h, dmu_mean)",True
+26,mean ln K dropped by (all 6 conditions),0.17–0.54,0.17–0.54,"first_run/tables/table_false_heterogeneity.csv (blind_btc_h, dmu_mean)",True
+29,"K too low, fast exchange (%)","16, 27 and 38","16, 27 and 38","first_run/tables/table_false_heterogeneity.csv (blind_btc_h, dmu_mean)",True
+29,timing rule K/(1+β) (%),"20, 33 and 50","20, 33 and 50",formula 1 − 1/(1 + β),True
+29,"K too low, slow exchange (%)",25–42,25–42,"first_run/tables/table_false_heterogeneity.csv (blind_btc_h, dmu_mean)",True
+29,pattern change above noise,0.02–0.09,0.02–0.09,first_run/tables/table_pattern_change_seed0.csv − noise floor,True
+29,noise floor of the pattern change,0.20,0.20,first_run/tables/table_controls.csv,True
+29,error vs true map rose at most,≤ 0.03,≤ 0.03,"first_run/tables/table_false_heterogeneity.csv (blind_btc_h, dpattern_rmse_mean)",True
+29,heads only: largest shift,≤ 0.002,≤ 0.002,"first_run/tables/table_false_heterogeneity.csv (heads_only, dmu_mean)",True
+29,"notes: shift in ln K, fast","0.17, 0.31 and 0.48","0.17, 0.31 and 0.48","first_run/tables/table_false_heterogeneity.csv (blind_btc_h, dmu_mean)",True
+29,"notes: shift in ln K, slow","0.29, 0.41 and 0.54","0.29, 0.41 and 0.54","first_run/tables/table_false_heterogeneity.csv (blind_btc_h, dmu_mean)",True
+29,notes: fast shift as % of ln(1+β),69 to 78,69 to 78,"first_run/tables/table_false_heterogeneity.csv (blind_btc_h, dmu_mean)",True
+29,notes: slope est. vs true mean ln K (this network),1.01,1.01,first_run/tables/table_controls.csv,True
+29,"notes: slope, all networks",0.95 to 1.05,0.95 to 1.05,first_run/tables/table_controls.csv,True
+29,"notes: Da = 1000, area-normalized BTC, % of rule",92 to 98,92 to 98,review_checks/baseline/table2_summary.csv,True
+30,"chart, test without memory (blind, agnostic, joint)","0.081, 0.189, 0.159","0.081, 0.189, 0.159",first_run/tables/table_methods_controlled.csv (mean_rmse_mean),True
+30,"chart, β = 1 fast exchange","0.488, 0.210, 0.173","0.488, 0.210, 0.173",first_run/tables/table_methods_controlled.csv (mean_rmse_mean),True
+30,"chart, β = 1 slow exchange","0.554, 0.153, 0.147","0.554, 0.153, 0.147",first_run/tables/table_methods_controlled.csv (mean_rmse_mean),True
+30,β = 1: error fell from ... to ... (fast),0.49 to 0.21,0.49 to 0.21,first_run/tables/table_methods_controlled.csv (mean_rmse_mean),True
+30,β = 1: error fell from ... to ... (slow),0.55 to 0.15,0.55 to 0.15,first_run/tables/table_methods_controlled.csv (mean_rmse_mean),True
+30,"joint − agnostic, chart conditions: at most ... lower",0.04,0.04,first_run/tables/table_methods_controlled.csv (mean_rmse_mean),True
+30,"notes: joint − agnostic, all 7 conditions",0.04 better to 0.01 worse,0.04 better to 0.01 worse,first_run/tables/table_methods_controlled.csv (mean_rmse_mean),True
+30,no memory: K too high (%),10–15,10–15,first_run/tables/table_methods_controlled.csv (mean_bias_mean),True
+30,no memory: error with / without memory training,0.16–0.19 instead of 0.08,0.16–0.19 instead of 0.08,first_run/tables/table_methods_controlled.csv (mean_rmse_mean),True
+30,"notes: β error of the joint model at β = 1 (fast, slow)","0.29, 0.16","0.29, 0.16",first_run/tables/table_methods_controlled.csv (beta_rmse_mean),True
+32,predicting β and Da changed the error by at most,0.04,0.04,first_run/tables/table_methods_controlled.csv (mean_rmse_mean),True
+32,"forward check, memory-blind: no memory → β = 1",0.43 → 1.36–1.47,0.43 → 1.36–1.47,first_run/tables/table_forward_check.csv (btc_rel_l2_mean),True
+32,"forward check, joint (all data) at β = 1",0.26–0.38,0.26–0.38,first_run/tables/table_forward_check.csv (btc_rel_l2_mean),True
+31,"chart, test no memory (H, H+BTC, +snapshot, +Q, all four)","0.481, 0.159, 0.136, 0.111, 0.105","0.481, 0.159, 0.136, 0.111, 0.105",review_checks/ablation/ablation_table.csv (mean_rmse_mean),True
+31,"chart, test β = 1 fast (H, H+BTC, +snapshot, +Q, all four)","0.484, 0.180, 0.163, 0.115, 0.121","0.484, 0.180, 0.163, 0.115, 0.121",review_checks/ablation/ablation_table.csv (mean_rmse_mean),True
+31,"chart, test β = 1 slow (H, H+BTC, +snapshot, +Q, all four)","0.482, 0.142, 0.104, 0.118, 0.102","0.482, 0.142, 0.104, 0.118, 0.102",review_checks/ablation/ablation_table.csv (mean_rmse_mean),True
+31,"heads only, all three tests",0.48,0.48,review_checks/ablation/ablation_table.csv,True
+31,+ BTC: error range,0.14 to 0.18,0.14 to 0.18,review_checks/ablation/ablation_table.csv,True
+31,"+ Q, fast exchange",0.18 → 0.11,0.18 → 0.11,review_checks/ablation/ablation_table.csv,True
+31,"+ snapshot, slow exchange",0.14 → 0.10,0.14 → 0.10,review_checks/ablation/ablation_table.csv,True
+31,notes: prior spread of mean ln K,0.5,0.5,main/run_info.json (prior_mu_sd),True
+31,"notes: pattern error, + snapshot",0.54 to 0.48,0.54 to 0.48,"review_checks/ablation/ablation_table.csv (pattern_rmse_mean, mean of 7 tests)",True
+31,"notes: pattern error, heads only / all four",0.49 / 0.47,0.49 / 0.47,review_checks/ablation/ablation_table.csv,True
+31,"notes: β error, + Q (β = 1 fast)",0.30 to 0.18,0.30 to 0.18,review_checks/ablation/ablation_table.csv,True
+31,notes: memory-blind with Q (β = 1 fast),0.43,0.43,review_checks/ablation/ablation_table.csv,True
+31,"notes: β error, porosity unknown (joint, all data)",0.18 to 0.31,0.18 to 0.31,review_checks/porosity/table_methods.csv,True
+31,"notes: chart bars vs first run, largest difference",within 0.007,within 0.007,ablation vs first_run/tables/table_methods_controlled.csv,True
+25,storage curve: arrival vs no storage,2 times later,2 times later,slide_figures/output/s4_btc_simple_stats.json,True
+25,storage curve height vs half-K curve,half as high,half as high,slide_figures/output/s4_btc_simple_stats.json,True
+28,test field shown,38,38,slide_figures/output/stats.json (s11),True
+28,"mean ln K estimate: no memory → Da = 30, Da = 1","0.00 → −0.44, −0.40","0.00 → −0.44, −0.40",slide_figures/output/stats.json (s11),True
+28,notes: pattern error of this field,about 0.7 to 0.8,about 0.7 to 0.8,slide_figures/output/stats.json (s11),True
+81,largest head change when K is doubled,9 × 10−15,9 × 10−15,slide_figures/output/stats.json (s3),True
+81,discharge Q: A → B (ratio),0.574 → 1.148 (ratio 2.000),0.574 → 1.148 (ratio 2.000),slide_figures/output/stats.json (s3),True
+26,test β values,"0.25, 0.5, 1","0.25, 0.5, 1",fhinv/data.py CONDITIONS,True
+26,test Da values,30 and 1,30 and 1,fhinv/data.py CONDITIONS,True
+26,mobile porosity θm,0.30,0.30,fhinv/sim.py THETA_REF,True
+27,training aquifers / test fields / conditions,"2,400 / 60 / 7","2,400 / 60 / 7","main/run_info.json, fhinv/data.py",True
+27,grid; head wells; snapshot points,32 × 16; 12; 24,32 × 16; 12; 24,fhinv/sim.py,True
+85,"N test fields, M cells","60, 512","60, 512","main/run_info.json, fhinv/sim.py",True
+87,variance captured by 40 principal components,97 %,97 %,first_run/run_info.json (pca_explained),True
+87,principal components,40,40,fhinv/learn.py N_MODES,True
+88,BTC times; snapshot time,"48 times, 0.05–6 Tref; 0.75 Tref","48 times, 0.05–6 Tref; 0.75 Tref",fhinv/sim.py,True
+88,dispersion D,0.05,0.05,fhinv/sim.py DISP,True
+88,ln K: mean sd; σ range; correlation length (cells),"N(0, 0.5²); U(0.5, 1); U(3, 7)","N(0, 0.5²); U(0.5, 1); U(3, 7)",fhinv/sim.py sample_lnk,True
+88,training memory: share without memory; β range,"25 %; U(0.1, 1.5)","25 %; U(0.1, 1.5)",fhinv/data.py sample_memory,True
+88,noise: heads; concentrations and Q,± 0.005; 5 %,± 0.005; 5 %,fhinv/sim.py add_noise,True
+88,training Da range,0.3–100,0.3–100,fhinv/data.py LOG_DA_RANGE,True
+24,"gravel: 1 m at K = 1e-2 m/s, i = 0.01, θ = 0.3",≈ 50 minutes,≈ 50 minutes,t = L θ / (K i),True
+24,clay: 1 m at K = 1e-10 m/s,"≈ 9,500 years","≈ 9,500 years",t = L θ / (K i),True
+82,"Q = K i A (K = 1e-4 m/s, i = 0.05, A = 1 m²)",0.432 m³/day,0.432 m³/day,Darcy's law,True

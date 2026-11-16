@@ -1,0 +1,7 @@
+# Exact versions used for every result in results/main, results/review_checks and slide_figures/output
+# (Python 3.13). Other versions run the code, but neural-network results can differ slightly (see README).
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+pandas==3.0.5
+matplotlib==3.11.2

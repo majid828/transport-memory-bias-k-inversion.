@@ -1,0 +1,20 @@
+{
+ "true_K": {
+  "area": 1.0,
+  "mean_time": 1.0,
+  "peak": 1.411,
+  "t_peak": 0.86
+ },
+ "storage": {
+  "area": 1.0,
+  "mean_time": 2.0,
+  "peak": 0.706,
+  "t_peak": 1.73
+ },
+ "half_K": {
+  "area": 2.0,
+  "mean_time": 2.0,
+  "peak": 1.411,
+  "t_peak": 1.73
+ }
+}

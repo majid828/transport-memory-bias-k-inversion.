@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# smoke-test outputs (python run_all.py --quick)
+data/quick/
+results/quick/

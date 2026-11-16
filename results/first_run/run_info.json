@@ -1,0 +1,20 @@
+{
+ "sizes": {
+  "n_train": 2400,
+  "n_fields": 60,
+  "n_random": 400
+ },
+ "seeds": 5,
+ "max_iter": 400,
+ "n_modes": 40,
+ "pca_explained": 0.9698913097381592,
+ "pca_floor_total_rmse": 0.09471072080442346,
+ "prior_mu_sd": 0.5024634922469283,
+ "grid": [
+  32,
+  16
+ ],
+ "T_ref": 307.2,
+ "T_end": 1843.1999999999998,
+ "runtime_s": 73.38611483573914
+}

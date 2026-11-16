@@ -1,0 +1,2701 @@
+case,seed,field,dmu
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,0,-0.1327643582093776
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,1,-0.22248141585317815
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,2,-0.13398647318269413
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,3,-0.10619759733810213
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,4,-0.19085478366665026
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,5,-0.187166781218647
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,6,-0.22898264001585042
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,7,-0.04008010333065559
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,8,-0.2473248218617256
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,9,-0.1103435607233274
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,10,-0.20325498113829887
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,11,-0.053820617989363884
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,12,-0.19382103766608824
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,13,-0.11071415033566834
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,14,-0.23393058527111843
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,15,-0.16531737160415494
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,16,-0.35124668318633634
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,17,-0.2329474884075653
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,18,-0.08564284559311205
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,19,-0.3515250900744087
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,20,-0.200350668207542
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,21,-0.05404311359055919
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,22,-0.09107668434774518
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,23,-0.1973522350026442
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,24,-0.22279965560551643
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,25,-0.29231325931579366
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,26,-0.19295518171506387
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,27,-0.28743431380647155
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,28,-0.15854029520341895
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,29,-0.070470971214453
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,30,-0.11262811880398862
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,31,-0.13885091064224486
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,32,-0.015939409974240704
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,33,-0.30040756547094966
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,34,-0.12505121546622078
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,35,-0.2638153580791708
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,36,-0.0860228516032177
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,37,-0.05960418924928912
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,38,-0.1853099632747994
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,39,-0.22487184093103618
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,40,-0.30548398940634225
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,41,-0.23556494050211188
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,42,-0.29211374423526215
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,43,-0.16021292481450458
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,44,-0.22226777516156487
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,45,-0.14064377208004353
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,46,-0.17578647977938067
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,47,-0.08777775399365262
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,48,-0.09239364767958286
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,49,-0.2868576078265905
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,50,-0.22320019046602432
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,51,-0.1277556639255012
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,52,-0.2536200819555603
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,53,-0.0818362544102079
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,54,-0.052488603728947814
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,55,-0.21837621193805723
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,56,-0.3148286919099622
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,57,-0.30045451441015597
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,58,-0.04356391940179716
+"T1 equilibrium exchange (Da=1000), beta=0.25",0,59,-0.27609285040851733
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,0,-0.17762882502518584
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,1,-0.2600280887531187
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,2,-0.19366761901475665
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,3,-0.20020728696994
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,4,-0.12289165830211111
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,5,-0.24552456920501664
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,6,-0.20310880513177126
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,7,-0.2690404130934566
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,8,-0.3052925962125754
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,9,-0.12722105344099527
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,10,-0.4285182402926777
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,11,-0.22280332138037795
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,12,-0.1997709889415987
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,13,-0.23583973291283078
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,14,-0.24095053677713502
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,15,-0.14909674581385954
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,16,-0.17788158265512788
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,17,-0.27151924524001747
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,18,-0.1794387801737178
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,19,-0.23538672271111896
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,20,-0.29608987088447436
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,21,-0.34823632279963795
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,22,-0.31055530058541525
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,23,-0.2641326339037108
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,24,-0.31953503112054416
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,25,-0.33885989931474914
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,26,-0.17241792029309888
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,27,-0.25876707616534345
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,28,-0.2553438350353021
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,29,-0.1604280619237305
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,30,-0.1735926521822291
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,31,-0.0852538055573917
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,32,-0.20503767039777276
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,33,-0.21450785826169672
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,34,-0.09854457622266632
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,35,-0.19397679270641074
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,36,-0.16801003616548613
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,37,-0.25100735334094737
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,38,-0.25376657158412397
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,39,-0.26223155338390025
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,40,-0.28242040920454603
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,41,-0.31794641199790685
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,42,-0.21986818908117645
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,43,-0.20039811022722126
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,44,-0.21992823364926728
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,45,-0.15760471457409952
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,46,-0.3098601460359598
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,47,-0.18359354528926108
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,48,-0.2628776245356183
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,49,-0.15888610676585968
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,50,-0.283920204004932
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,51,-0.18141198609965925
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,52,-0.2890296143384703
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,53,-0.09066388583323383
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,54,-0.21646357084581558
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,55,-0.2617646858268232
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,56,-0.26214675514177677
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,57,-0.3187924836413168
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,58,-0.13360655970537416
+"T2 no exchange, K/(1+beta), D, beta=0.25",0,59,-0.21646401043181007
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,0,-0.1456668976499691
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,1,-0.25965852900253306
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,2,-0.2229133514451978
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,3,-0.13126199423455268
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,4,-0.07832091103234932
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,5,-0.31496249535276016
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,6,-0.20825615299182168
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,7,-0.22883087540299882
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,8,-0.15862641215929124
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,9,-0.1796649441649707
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,10,-0.3685508302254846
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,11,-0.3446649829750237
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,12,-0.17669059835850795
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,13,-0.17597860092996864
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,14,-0.2104723849673944
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,15,-0.2345479990654074
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,16,-0.323835986399698
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,17,-0.26833117765597403
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,18,-0.15423283572900023
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,19,-0.293111519487936
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,20,-0.2639781686358438
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,21,-0.30477515396944754
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,22,-0.09075728586704401
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,23,-0.2900433139771875
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,24,-0.1680085282789567
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,25,-0.3612802571377389
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,26,-0.26392316172343344
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,27,-0.26234938173092415
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,28,-0.241986562918185
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,29,-0.11922555847126315
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,30,-0.11767562614199109
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,31,-0.0855797028521681
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,32,-0.20307573076832863
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,33,-0.26545238989545344
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,34,-0.1670646323152903
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,35,-0.2466354220224494
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,36,-0.1127477502489995
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,37,-0.23181332662971466
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,38,-0.10945583302174942
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,39,-0.2795964707656212
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,40,-0.3517489717157044
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,41,-0.26091052228717976
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,42,-0.2689261948312678
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,43,-0.12081573025722694
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,44,-0.2312791081112975
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,45,-0.1900062235107811
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,46,-0.2934094029324317
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,47,-0.15469646228359904
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,48,-0.17018208666220824
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,49,-0.30377759472933025
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,50,-0.3801831122995949
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,51,-0.17016523300097827
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,52,-0.11261658175822342
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,53,-0.14944114037288087
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,54,-0.16346615660243513
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,55,-0.13999866676366257
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,56,-0.30386556874202103
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,57,-0.3132832496034544
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,58,-0.04865554427265195
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",0,59,-0.3352565688385866
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,0,-0.2618073022182317
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,1,-0.2768816189013591
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,2,-0.22513326567063136
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,3,-0.2823522308727424
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,4,-0.3208421637652235
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,5,-0.20873612374957545
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,6,-0.2676219119465567
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,7,-0.2800753447565746
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,8,-0.270678130682032
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,9,-0.2595457091302842
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,10,-0.37913754875972505
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,11,-0.3246292139681828
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,12,-0.26344782864396493
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,13,-0.30124434130270483
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,14,-0.4028078300545393
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,15,0.039098020343564466
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,16,-0.406503395958975
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,17,-0.29598398301818585
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,18,-0.28085850853904537
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,19,-0.3058974794026517
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,20,-0.5614616437552042
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,21,-0.4068863067557618
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,22,-0.3025254919769718
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,23,-0.3279360306445117
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,24,-0.4113310089537622
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,25,-0.28427494010534105
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,26,-0.4148118631518855
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,27,-0.43446703965820277
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,28,-0.33927553250360853
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,29,-0.07882630589880901
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,30,-0.2735461743795201
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,31,-0.2875263092794762
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,32,-0.18370912894018554
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,33,-0.3756641582886485
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,34,-0.3073048828225879
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,35,-0.44693393643866947
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,36,-0.3157183358660478
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,37,-0.17538455548092835
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,38,-0.2540108526325546
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,39,-0.316447917331682
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,40,-0.39841492294101294
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,41,-0.5610033500784821
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,42,-0.3165750518438673
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,43,-0.3479606719610527
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,44,-0.43369999595201114
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,45,-0.3000635038474051
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,46,-0.2297385145378521
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,47,-0.29597562287984985
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,48,-0.2642066351525481
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,49,-0.561318678610953
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,50,-0.42334335779410875
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,51,-0.2704302691333895
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,52,-0.3340454411440399
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,53,-0.18945827511952584
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,54,-0.19035727246918
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,55,-0.21257294710878227
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,56,-0.4959629368152088
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,57,-0.4658402184566906
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,58,-0.2363990339714177
+"T1 equilibrium exchange (Da=1000), beta=0.5",0,59,-0.35539701262622264
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,0,-0.37750664658071265
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,1,-0.6634478199564106
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,2,-0.2912590541620917
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,3,-0.32230771280592146
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,4,-0.2811215572185415
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,5,-0.3877794154759814
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,6,-0.3679878915971879
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,7,-0.5017537382521357
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,8,-0.586655864307212
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,9,-0.38142987008692
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,10,-0.4436260250887104
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,11,-0.6183928187847292
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,12,-0.33929542016862
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,13,-0.38428521098374313
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,14,-0.5674033729908325
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,15,-0.28727826303098036
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,16,-0.4683470239320675
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,17,-0.3001012751265755
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,18,-0.325341108695158
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,19,-0.5400968875929114
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,20,-0.5665498035405039
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,21,-0.5824784423121885
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,22,-0.38890374879837947
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,23,-0.37624026159570323
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,24,-0.39338614735915167
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,25,-0.4530664202931668
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,26,-0.3675875978957043
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,27,-0.46869079595314067
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,28,-0.3892255931555828
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,29,-0.3858839964309148
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,30,-0.4293522723249713
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,31,-0.33816693327689107
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,32,-0.3276274965396473
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,33,-0.4383128612916791
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,34,-0.3267657376163894
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,35,-0.37732719203626186
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,36,-0.3385224914092216
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,37,-0.17357843282059626
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,38,-0.3767906503871287
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,39,-0.3762198751992777
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,40,-0.5562479828240998
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,41,-0.46793564364423207
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,42,-0.33868216463436485
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,43,-0.4574057360755239
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,44,-0.39491527797994913
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,45,-0.4035207103555627
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,46,-0.39348364249770174
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,47,-0.2616565946949045
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,48,-0.3459681995298087
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,49,-0.42673582571833324
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,50,-0.49878262793311634
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,51,-0.4131191120683735
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,52,-0.42940279909554224
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,53,-0.32797025299423255
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,54,-0.3513288848899323
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,55,-0.42981203060235695
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,56,-0.4665333298009607
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,57,-0.4699687945118068
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,58,-0.17786175723225228
+"T2 no exchange, K/(1+beta), D, beta=0.5",0,59,-0.4990313016876148
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,0,-0.35498909021996017
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,1,-0.5449133595160816
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,2,-0.3029637859335122
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,3,-0.3535421281789314
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,4,-0.282465154857641
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,5,-0.3767417502869578
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,6,-0.4671016128437909
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,7,-0.5719710170882936
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,8,-0.41581595816068256
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,9,-0.312128358352054
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,10,-0.41527389938045944
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,11,-0.3849145684198063
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,12,-0.24178033164461116
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,13,-0.33938598041115275
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,14,-0.3889117967002645
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,15,-0.2281239068017144
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,16,-0.3529296978387859
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,17,-0.3482690419050516
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,18,-0.29611091677949086
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,19,-0.3825725800477229
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,20,-0.6013735860573424
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,21,-0.5533642707718929
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,22,-0.38917080106388474
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,23,-0.5047625917059604
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,24,-0.45576881377789924
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,25,-0.4367336176594512
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,26,-0.314787751952874
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,27,-0.5033524850343275
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,28,-0.48238037502868325
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,29,-0.44352027985282766
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,30,-0.3062207877750087
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,31,-0.33255731946217915
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,32,-0.36835190598379275
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,33,-0.4213020687597116
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,34,-0.3466412731216166
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,35,-0.37755609331540707
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,36,-0.3262816233774465
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,37,-0.27569541761771577
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,38,-0.36680223269084994
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,39,-0.2954573661482306
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,40,-0.39231052105945713
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,41,-0.34031671037237454
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,42,-0.44511587433968314
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,43,-0.4222477512800188
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,44,-0.3933433189680287
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,45,-0.2437189929384791
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,46,-0.48461506806436505
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,47,-0.35344131470576584
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,48,-0.3541842611514647
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,49,-0.6005112018386924
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,50,-0.40815370271207874
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,51,-0.3047501098850992
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,52,-0.44349192071661014
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,53,-0.4321337342291878
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,54,-0.29972232029076684
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,55,-0.2828385869965353
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,56,-0.5328174896425846
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,57,-0.5536671016084669
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,58,-0.3152593227247109
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",0,59,-0.4623887799245698
+"T1 equilibrium exchange (Da=1000), beta=1",0,0,-0.34791427594749336
+"T1 equilibrium exchange (Da=1000), beta=1",0,1,-0.6241652529121972
+"T1 equilibrium exchange (Da=1000), beta=1",0,2,-0.27232662468811025
+"T1 equilibrium exchange (Da=1000), beta=1",0,3,-0.4579334419870992
+"T1 equilibrium exchange (Da=1000), beta=1",0,4,-0.46198498880923844
+"T1 equilibrium exchange (Da=1000), beta=1",0,5,-0.3197510911581561
+"T1 equilibrium exchange (Da=1000), beta=1",0,6,-0.5815883996588653
+"T1 equilibrium exchange (Da=1000), beta=1",0,7,-0.46271521328761367
+"T1 equilibrium exchange (Da=1000), beta=1",0,8,-0.5061997840969832
+"T1 equilibrium exchange (Da=1000), beta=1",0,9,-0.3664775797733737
+"T1 equilibrium exchange (Da=1000), beta=1",0,10,-0.6321951613256278
+"T1 equilibrium exchange (Da=1000), beta=1",0,11,-0.42310157791059555
+"T1 equilibrium exchange (Da=1000), beta=1",0,12,-0.46406359656378976
+"T1 equilibrium exchange (Da=1000), beta=1",0,13,-0.33805991792462753
+"T1 equilibrium exchange (Da=1000), beta=1",0,14,-0.611457242655286
+"T1 equilibrium exchange (Da=1000), beta=1",0,15,-0.2223507479979397
+"T1 equilibrium exchange (Da=1000), beta=1",0,16,-0.2511015095433433
+"T1 equilibrium exchange (Da=1000), beta=1",0,17,-0.39879341819108216
+"T1 equilibrium exchange (Da=1000), beta=1",0,18,-0.3689522298126514
+"T1 equilibrium exchange (Da=1000), beta=1",0,19,-0.6224160533559892
+"T1 equilibrium exchange (Da=1000), beta=1",0,20,-0.6965149605652401
+"T1 equilibrium exchange (Da=1000), beta=1",0,21,-0.3372511649698455
+"T1 equilibrium exchange (Da=1000), beta=1",0,22,-0.31545217807615533
+"T1 equilibrium exchange (Da=1000), beta=1",0,23,-0.5408121397134819
+"T1 equilibrium exchange (Da=1000), beta=1",0,24,-0.5520907343250632
+"T1 equilibrium exchange (Da=1000), beta=1",0,25,-0.6057064124548632
+"T1 equilibrium exchange (Da=1000), beta=1",0,26,-0.6535683504255989
+"T1 equilibrium exchange (Da=1000), beta=1",0,27,-0.4347353382209834
+"T1 equilibrium exchange (Da=1000), beta=1",0,28,-0.228108340896215
+"T1 equilibrium exchange (Da=1000), beta=1",0,29,-0.22079587079685375
+"T1 equilibrium exchange (Da=1000), beta=1",0,30,-0.470277137200814
+"T1 equilibrium exchange (Da=1000), beta=1",0,31,-0.352660752582614
+"T1 equilibrium exchange (Da=1000), beta=1",0,32,-0.06732815194816966
+"T1 equilibrium exchange (Da=1000), beta=1",0,33,-0.5466641622744675
+"T1 equilibrium exchange (Da=1000), beta=1",0,34,-0.575170088066715
+"T1 equilibrium exchange (Da=1000), beta=1",0,35,-0.5168864483335104
+"T1 equilibrium exchange (Da=1000), beta=1",0,36,-0.43576076691650106
+"T1 equilibrium exchange (Da=1000), beta=1",0,37,0.0319520352456093
+"T1 equilibrium exchange (Da=1000), beta=1",0,38,-0.47748124239063283
+"T1 equilibrium exchange (Da=1000), beta=1",0,39,-0.49433954318607565
+"T1 equilibrium exchange (Da=1000), beta=1",0,40,-0.6482496639780275
+"T1 equilibrium exchange (Da=1000), beta=1",0,41,-0.6605115855887602
+"T1 equilibrium exchange (Da=1000), beta=1",0,42,-0.5811774381126673
+"T1 equilibrium exchange (Da=1000), beta=1",0,43,-0.5103839888929818
+"T1 equilibrium exchange (Da=1000), beta=1",0,44,-0.4808012355474919
+"T1 equilibrium exchange (Da=1000), beta=1",0,45,-0.6137982369551276
+"T1 equilibrium exchange (Da=1000), beta=1",0,46,0.022072230622551814
+"T1 equilibrium exchange (Da=1000), beta=1",0,47,-0.43841353606988154
+"T1 equilibrium exchange (Da=1000), beta=1",0,48,-0.3765997888551211
+"T1 equilibrium exchange (Da=1000), beta=1",0,49,-0.6089059540753077
+"T1 equilibrium exchange (Da=1000), beta=1",0,50,-0.5284043508061701
+"T1 equilibrium exchange (Da=1000), beta=1",0,51,-0.4174051000223112
+"T1 equilibrium exchange (Da=1000), beta=1",0,52,-0.5378349245384404
+"T1 equilibrium exchange (Da=1000), beta=1",0,53,-0.3181174862134018
+"T1 equilibrium exchange (Da=1000), beta=1",0,54,-0.10688073896677364
+"T1 equilibrium exchange (Da=1000), beta=1",0,55,-0.5143502516148966
+"T1 equilibrium exchange (Da=1000), beta=1",0,56,-0.6865801344572107
+"T1 equilibrium exchange (Da=1000), beta=1",0,57,-0.5973873606218412
+"T1 equilibrium exchange (Da=1000), beta=1",0,58,-0.15594291091610146
+"T1 equilibrium exchange (Da=1000), beta=1",0,59,-0.6258560687897294
+"T2 no exchange, K/(1+beta), D, beta=1",0,0,-0.5697220390713396
+"T2 no exchange, K/(1+beta), D, beta=1",0,1,-0.746627106382778
+"T2 no exchange, K/(1+beta), D, beta=1",0,2,-0.3395214126978117
+"T2 no exchange, K/(1+beta), D, beta=1",0,3,-0.6999083432848832
+"T2 no exchange, K/(1+beta), D, beta=1",0,4,-0.6738402147239118
+"T2 no exchange, K/(1+beta), D, beta=1",0,5,-0.8357913719293494
+"T2 no exchange, K/(1+beta), D, beta=1",0,6,-0.6580876758237137
+"T2 no exchange, K/(1+beta), D, beta=1",0,7,-0.7395334102584418
+"T2 no exchange, K/(1+beta), D, beta=1",0,8,-0.8282284628532386
+"T2 no exchange, K/(1+beta), D, beta=1",0,9,-0.5963922793913534
+"T2 no exchange, K/(1+beta), D, beta=1",0,10,-0.7920125645505027
+"T2 no exchange, K/(1+beta), D, beta=1",0,11,-0.6296796914005562
+"T2 no exchange, K/(1+beta), D, beta=1",0,12,-0.675023147808576
+"T2 no exchange, K/(1+beta), D, beta=1",0,13,-0.5509083568933144
+"T2 no exchange, K/(1+beta), D, beta=1",0,14,-0.8387750803504921
+"T2 no exchange, K/(1+beta), D, beta=1",0,15,-0.5540352881872896
+"T2 no exchange, K/(1+beta), D, beta=1",0,16,-0.32026239374064125
+"T2 no exchange, K/(1+beta), D, beta=1",0,17,-0.5542572333640106
+"T2 no exchange, K/(1+beta), D, beta=1",0,18,-0.5812850206223813
+"T2 no exchange, K/(1+beta), D, beta=1",0,19,-0.8552556687849676
+"T2 no exchange, K/(1+beta), D, beta=1",0,20,-0.8483860765007161
+"T2 no exchange, K/(1+beta), D, beta=1",0,21,-0.6698137691739361
+"T2 no exchange, K/(1+beta), D, beta=1",0,22,-0.7355944471975986
+"T2 no exchange, K/(1+beta), D, beta=1",0,23,-0.7069407984422913
+"T2 no exchange, K/(1+beta), D, beta=1",0,24,-0.6635726812676392
+"T2 no exchange, K/(1+beta), D, beta=1",0,25,-0.7653132873492511
+"T2 no exchange, K/(1+beta), D, beta=1",0,26,-0.7472482014810335
+"T2 no exchange, K/(1+beta), D, beta=1",0,27,-0.7106963853236445
+"T2 no exchange, K/(1+beta), D, beta=1",0,28,-0.6942941420574107
+"T2 no exchange, K/(1+beta), D, beta=1",0,29,-0.5993889514718678
+"T2 no exchange, K/(1+beta), D, beta=1",0,30,-0.5820102553321983
+"T2 no exchange, K/(1+beta), D, beta=1",0,31,-0.575908798956454
+"T2 no exchange, K/(1+beta), D, beta=1",0,32,-0.4765230839088852
+"T2 no exchange, K/(1+beta), D, beta=1",0,33,-0.8202757702524758
+"T2 no exchange, K/(1+beta), D, beta=1",0,34,-0.6395644965566796
+"T2 no exchange, K/(1+beta), D, beta=1",0,35,-0.6424106564341113
+"T2 no exchange, K/(1+beta), D, beta=1",0,36,-0.7430386546913477
+"T2 no exchange, K/(1+beta), D, beta=1",0,37,-0.28401458772691424
+"T2 no exchange, K/(1+beta), D, beta=1",0,38,-0.6170038554105302
+"T2 no exchange, K/(1+beta), D, beta=1",0,39,-0.7898042702073272
+"T2 no exchange, K/(1+beta), D, beta=1",0,40,-0.6669866797189156
+"T2 no exchange, K/(1+beta), D, beta=1",0,41,-0.6308932401904952
+"T2 no exchange, K/(1+beta), D, beta=1",0,42,-0.7346913944778923
+"T2 no exchange, K/(1+beta), D, beta=1",0,43,-0.6960872690920328
+"T2 no exchange, K/(1+beta), D, beta=1",0,44,-0.6975813235615176
+"T2 no exchange, K/(1+beta), D, beta=1",0,45,-0.6430451620508257
+"T2 no exchange, K/(1+beta), D, beta=1",0,46,-0.5173307352605356
+"T2 no exchange, K/(1+beta), D, beta=1",0,47,-0.4955104106719414
+"T2 no exchange, K/(1+beta), D, beta=1",0,48,-0.6188695171847252
+"T2 no exchange, K/(1+beta), D, beta=1",0,49,-0.7150556057346356
+"T2 no exchange, K/(1+beta), D, beta=1",0,50,-0.7328377735935507
+"T2 no exchange, K/(1+beta), D, beta=1",0,51,-0.7268790725809842
+"T2 no exchange, K/(1+beta), D, beta=1",0,52,-0.721509287471787
+"T2 no exchange, K/(1+beta), D, beta=1",0,53,-0.7346278881724644
+"T2 no exchange, K/(1+beta), D, beta=1",0,54,-0.5942010906284143
+"T2 no exchange, K/(1+beta), D, beta=1",0,55,-0.6370256182710331
+"T2 no exchange, K/(1+beta), D, beta=1",0,56,-0.7644459625956854
+"T2 no exchange, K/(1+beta), D, beta=1",0,57,-0.8517741348161807
+"T2 no exchange, K/(1+beta), D, beta=1",0,58,-0.5772706264770213
+"T2 no exchange, K/(1+beta), D, beta=1",0,59,-0.848293055575867
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,0,-0.6757677735318961
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,1,-0.8099822697917191
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,2,-0.3091405643910697
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,3,-0.7252166658119346
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,4,-0.5117453074310965
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,5,-0.432496698724728
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,6,-0.7833969459546799
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,7,-0.7966020801741583
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,8,-0.5640227894307142
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,9,-0.4855771854784205
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,10,-0.7416683058498231
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,11,-0.7203946437149285
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,12,-0.6669693721468583
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,13,-0.5771375949804152
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,14,-0.9467588740897586
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,15,-0.4342351526123102
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,16,-0.2985132295559667
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,17,-0.5383110869036583
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,18,-0.6923092066993078
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,19,-0.8121437691852841
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,20,-0.7804963010116694
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,21,-0.6813926724938295
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,22,-0.7374896984793546
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,23,-0.5864236528859648
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,24,-0.6901611799308967
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,25,-0.799171651695153
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,26,-0.7408484005533339
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,27,-0.5570519343168487
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,28,-0.6014615094840914
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,29,-0.5165141274006932
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,30,-0.6155986896398519
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,31,-0.5706055798495964
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,32,-0.5420165357913953
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,33,-0.6825195743512065
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,34,-0.6606987903553474
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,35,-0.6538520563612684
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,36,-0.5880782743910936
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,37,-0.181847079762671
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,38,-0.659732529506625
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,39,-0.7941049812362869
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,40,-0.7611653303660736
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,41,-0.762556732635127
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,42,-0.686351586739283
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,43,-0.6809425080303813
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,44,-0.6793831830544887
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,45,-0.6407801246250397
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,46,-0.34849108236577675
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,47,-0.6215734244014417
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,48,-0.6103539477276052
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,49,-0.7414218164747937
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,50,-0.672808736907491
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,51,-0.7059937171730926
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,52,-0.6834083267240634
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,53,-0.2720944064192144
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,54,-0.5917674163425954
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,55,-0.5483972105364305
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,56,-0.8245424490050697
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,57,-0.7364981795097567
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,58,-0.3242061798837774
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",0,59,-0.8203887859616501
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,0,-0.12690112595702985
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,1,-0.1460755828549886
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,2,-0.1104555920000444
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,3,-0.2909269025880846
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,4,-0.19722850004587716
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,5,-0.2098268021814928
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,6,-0.11215147984458472
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,7,-0.1602195062844794
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,8,-0.05893929313815821
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,9,-0.09427547539435671
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,10,-0.07365034475017612
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,11,-0.16527638510780407
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,12,-0.15315367332415827
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,13,-0.005227338062448461
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,14,-0.1847115800501994
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,15,-0.15287444650231205
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,16,-0.09924413581674729
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,17,-0.15800325077378674
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,18,-0.20231345719145247
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,19,-0.10844955233890576
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,20,-0.3166985556600985
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,21,-0.08400715804164247
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,22,-0.3375119238316264
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,23,-0.23929019251139713
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,24,-0.21640461356869667
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,25,-0.33396822281042676
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,26,-0.09976405785064513
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,27,-0.1965964986564051
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,28,-0.21064308821078037
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,29,0.1009487986521315
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,30,-0.09368010662354823
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,31,-0.06700017290061044
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,32,-0.1407032461002793
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,33,-0.2305827444495201
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,34,-0.1886994219221524
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,35,-0.09325810968272663
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,36,-0.16717954918207967
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,37,-0.21749296218405045
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,38,-0.276825548962914
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,39,-0.08534492532887006
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,40,-0.12561516526485267
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,41,-0.11935970859295403
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,42,-0.22301239298545047
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,43,-0.09237822360295805
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,44,-0.24118531357776687
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,45,-0.21325787663594942
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,46,-0.03819706289002367
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,47,-0.28557058057994844
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,48,-0.21887370061764005
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,49,-0.05557389082225844
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,50,-0.25855562119833686
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,51,-0.2755005154243868
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,52,-0.19444403823594736
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,53,-0.21700917504735864
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,54,-0.2508249574742727
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,55,-0.0761402213039637
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,56,-0.23231073321691742
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,57,-0.1080841727283246
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,58,-0.20061641957197224
+"T1 equilibrium exchange (Da=1000), beta=0.25",1,59,-0.2894812162780721
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,0,-0.18472603120572684
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,1,-0.2126355250899729
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,2,-0.2029640862960539
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,3,-0.218337261202798
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,4,-0.17557954754688745
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,5,-0.20620992807136992
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,6,-0.14266035223550982
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,7,-0.12378350812230271
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,8,-0.37431437470579076
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,9,-0.17202349029149708
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,10,-0.10173947560057484
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,11,-0.2263000887623512
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,12,-0.2115144820172838
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,13,-0.1867276038864601
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,14,-0.1994509295979895
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,15,-0.1717907437119353
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,16,-0.15167597098069563
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,17,-0.021832670766928075
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,18,-0.2105459724236495
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,19,-0.11809828387008887
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,20,-0.30905333900776766
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,21,-0.3360473209696033
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,22,-0.3255343366036505
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,23,-0.25193660539649193
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,24,-0.161546034006821
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,25,-0.22018747227228322
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,26,-0.10117761395375346
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,27,-0.32224005496918345
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,28,-0.28445146384074027
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,29,-0.05593377083414536
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,30,-0.06903078375835814
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,31,-0.07168805456489724
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,32,-0.1363471327026773
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,33,-0.3371479473079521
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,34,-0.3255399803194071
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,35,-0.12730777067652027
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,36,-0.14728569431047767
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,37,-0.3955052136778574
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,38,-0.21425959711901602
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,39,-0.191060492249302
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,40,-0.19634667102158293
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,41,-0.09603764459726419
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,42,-0.23041730039973896
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,43,-0.10024159105602828
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,44,-0.15496784624148913
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,45,-0.3015655671560229
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,46,-0.22993493719859348
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,47,-0.23898047428615116
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,48,-0.25012926230364935
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,49,-0.03525624239148363
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,50,-0.17435425515017117
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,51,-0.37010289113555006
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,52,-0.14902916046624348
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,53,-0.25775366971871044
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,54,-0.3602996983730642
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,55,-0.368819278161322
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,56,-0.2686333749586718
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,57,-0.22096595820434217
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,58,-0.31048265066870645
+"T2 no exchange, K/(1+beta), D, beta=0.25",1,59,-0.22133268129680372
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,0,-0.2203352637641236
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,1,-0.15415776179707613
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,2,-0.167310386101721
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,3,-0.3475112559097219
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,4,-0.08939274533037334
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,5,-0.12949251995385694
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,6,-0.0637604350057799
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,7,-0.18507633771260934
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,8,-0.26360756689202025
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,9,-0.11280712572343565
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,10,-0.08375093620463209
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,11,-0.3357538218601068
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,12,-0.17530775740934326
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,13,-0.13507815080966618
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,14,-0.16667313905928416
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,15,-0.09545505075333788
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,16,-0.10850572093292676
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,17,0.0004944116806968601
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,18,-0.23006433714576405
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,19,-0.24035187788159512
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,20,-0.4036704277075338
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,21,-0.2938260918036476
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,22,-0.21266418838860865
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,23,-0.3133198313850294
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,24,-0.3662740306085584
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,25,-0.18645723381035592
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,26,-0.19808662072394267
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,27,-0.16809443055509987
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,28,-0.3785734521169908
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,29,-0.06865378214228762
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,30,-0.15590968953029474
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,31,-0.22370268104978486
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,32,-0.17408629435344936
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,33,-0.32451685540643116
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,34,-0.2240488092887884
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,35,-0.22905456211002362
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,36,-0.16044090549730883
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,37,-0.30611789588840077
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,38,-0.1498795232155348
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,39,-0.0893236630989589
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,40,-0.23330314265742946
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,41,-0.1697749232269624
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,42,-0.22092484215457156
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,43,-0.012595519151055681
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,44,-0.15419316950347925
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,45,-0.3507085486853383
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,46,-0.1940730955284664
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,47,-0.276509700764867
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,48,-0.1979680639439006
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,49,-0.058806527568036136
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,50,-0.3147130637678924
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,51,-0.30083128561780215
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,52,-0.20122097641176584
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,53,-0.2908434649245205
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,54,-0.2668448040686533
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,55,-0.28405467810683915
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,56,-0.21513035507948264
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,57,-0.2232114253146087
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,58,-0.17910871300205994
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",1,59,-0.3393632712469431
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,0,-0.2589523768088635
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,1,-0.33709282866122003
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,2,-0.17673988096826154
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,3,-0.3963036808900687
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,4,-0.10967598523007671
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,5,-0.2441520661467013
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,6,-0.2807828501192472
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,7,-0.16473651404388434
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,8,-0.1888675136341541
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,9,-0.23833928067893037
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,10,-0.2596645808406994
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,11,-0.3670074497169409
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,12,-0.2888994526914516
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,13,-0.14967036966712893
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,14,-0.27052224318699075
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,15,-0.32038775063225156
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,16,-0.10629581777440378
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,17,-0.3257384120961133
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,18,-0.3170540339241783
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,19,-0.31342241816283684
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,20,-0.675028777783385
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,21,-0.3682269903843738
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,22,-0.32094162569163454
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,23,-0.4484782830129757
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,24,-0.3002537545041338
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,25,-0.4930737058793769
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,26,-0.32152309752489827
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,27,-0.3197513073537944
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,28,-0.40690433442779983
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,29,0.03944191298958877
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,30,-0.27837696017141045
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,31,-0.2150607316808688
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,32,-0.15779231945804395
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,33,-0.4098367101902478
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,34,-0.3788961874283054
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,35,-0.2036283179002136
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,36,-0.3392525848184654
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,37,-0.2698449121025508
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,38,-0.3074763038053828
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,39,-0.14845400210515147
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,40,-0.47182169045708877
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,41,-0.2372804816998645
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,42,-0.29904354479910067
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,43,-0.1760614740996727
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,44,-0.3705757567998425
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,45,-0.44040366836070155
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,46,-0.2703424038251889
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,47,-0.37578373730792797
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,48,-0.1812676088433341
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,49,-0.1983170568207669
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,50,-0.41618163820069376
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,51,-0.2860999137522456
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,52,-0.37726195494768167
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,53,-0.3191911642748309
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,54,-0.3425512418462031
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,55,-0.3651622696257242
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,56,-0.38780467389091333
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,57,-0.19217070587697893
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,58,-0.2610791616077482
+"T1 equilibrium exchange (Da=1000), beta=0.5",1,59,-0.3611586481491292
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,0,-0.4651007068909272
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,1,-0.3685980999459272
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,2,-0.38117149843694975
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,3,-0.3611329050953448
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,4,-0.3744426990559041
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,5,-0.35755616744573643
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,6,-0.2192867638781841
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,7,-0.3517530219921541
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,8,-0.620836439094561
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,9,-0.37476928114092944
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,10,-0.3508011449432647
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,11,-0.3457377424178043
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,12,-0.37667164374416284
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,13,-0.35510013048957517
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,14,-0.3735265827528618
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,15,-0.287543265197873
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,16,-0.4098493307985116
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,17,-0.35719534542534026
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,18,-0.36560415234347354
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,19,-0.43933806957877175
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,20,-0.5818035613188962
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,21,-0.5279799840931145
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,22,-0.5474203393235358
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,23,-0.36346077537855426
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,24,-0.39640128285234344
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,25,-0.4332537017827453
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,26,-0.3757615087985566
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,27,-0.3959037012460964
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,28,-0.449996227822665
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,29,-0.2901153093944875
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,30,-0.33568286503872224
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,31,-0.4361810585111481
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,32,-0.2822584169400604
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,33,-0.38620238943836394
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,34,-0.4569369508722164
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,35,-0.34915571109502147
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,36,-0.37847385879281
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,37,-0.6081901217631216
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,38,-0.4437905459705247
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,39,-0.23639142508688749
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,40,-0.5109330355638725
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,41,-0.30826835410433645
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,42,-0.39854372328919024
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,43,-0.24553321116153926
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,44,-0.3579225906067126
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,45,-0.7337227842595884
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,46,-0.3615502555770589
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,47,-0.5030444784535706
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,48,-0.4257840983601447
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,49,-0.2751619886829292
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,50,-0.4080026352355993
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,51,-0.5842260090038108
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,52,-0.3317269782666481
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,53,-0.41881001911882537
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,54,-0.592865855853508
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,55,-0.3439608614752723
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,56,-0.4375057347801037
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,57,-0.3803420088620085
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,58,-0.42020660251048186
+"T2 no exchange, K/(1+beta), D, beta=0.5",1,59,-0.5090027027909012
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,0,-0.3826142591356374
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,1,-0.3054607319230495
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,2,-0.3151511130801977
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,3,-0.5955599732210115
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,4,-0.2748777285543713
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,5,-0.27742455719629794
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,6,-0.33195713564867013
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,7,-0.3718264134953275
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,8,-0.4208872964025029
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,9,-0.3822887661678701
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,10,-0.30271142252859096
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,11,-0.4208711611668945
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,12,-0.45147889395959984
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,13,-0.16644496204127496
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,14,-0.3694993383671186
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,15,-0.3581160128038573
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,16,-0.18888515684212748
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,17,-0.28755996383168414
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,18,-0.38655992642344283
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,19,-0.4723333846863749
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,20,-0.6487481177354184
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,21,-0.48344053849266566
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,22,-0.4937056936105336
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,23,-0.4756296311082055
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,24,-0.40318070735964323
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,25,-0.5031011142011501
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,26,-0.31233217446243333
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,27,-0.41161102119517257
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,28,-0.5357630901375632
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,29,-0.07671460875520347
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,30,-0.2035708239425912
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,31,-0.39709233575992053
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,32,-0.33706685711350937
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,33,-0.5655132097492029
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,34,-0.4340931687904124
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,35,-0.2642198460626662
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,36,-0.3380510051431923
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,37,-0.4105671704634002
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,38,-0.4093565109432915
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,39,-0.1948594746024772
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,40,-0.5452277390118706
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,41,-0.35685378259106326
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,42,-0.34245567577601865
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,43,-0.26414150428054006
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,44,-0.37875512865944366
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,45,-0.5458529041388471
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,46,-0.3344248864846322
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,47,-0.5292668400519538
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,48,-0.4315457596550876
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,49,-0.2902404680833882
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,50,-0.3284026267872236
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,51,-0.5317305972110379
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,52,-0.4866505549515725
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,53,-0.34262879751987274
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,54,-0.6055825561605961
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,55,-0.4772658319791383
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,56,-0.5081268046858678
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,57,-0.4304181820527851
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,58,-0.3778451659689351
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",1,59,-0.46416887901086423
+"T1 equilibrium exchange (Da=1000), beta=1",1,0,-0.5401841805548164
+"T1 equilibrium exchange (Da=1000), beta=1",1,1,-0.2888257984405461
+"T1 equilibrium exchange (Da=1000), beta=1",1,2,-0.22815512843500707
+"T1 equilibrium exchange (Da=1000), beta=1",1,3,-0.6669179039065408
+"T1 equilibrium exchange (Da=1000), beta=1",1,4,-0.38602603461798457
+"T1 equilibrium exchange (Da=1000), beta=1",1,5,-0.15543018590744934
+"T1 equilibrium exchange (Da=1000), beta=1",1,6,-0.3004316038132455
+"T1 equilibrium exchange (Da=1000), beta=1",1,7,-0.3161928452096996
+"T1 equilibrium exchange (Da=1000), beta=1",1,8,-0.49217777437081234
+"T1 equilibrium exchange (Da=1000), beta=1",1,9,-0.467977187308364
+"T1 equilibrium exchange (Da=1000), beta=1",1,10,-0.41067040966425217
+"T1 equilibrium exchange (Da=1000), beta=1",1,11,-0.312924336332727
+"T1 equilibrium exchange (Da=1000), beta=1",1,12,-0.5658353175489113
+"T1 equilibrium exchange (Da=1000), beta=1",1,13,-0.227899186118731
+"T1 equilibrium exchange (Da=1000), beta=1",1,14,-0.4684513356891858
+"T1 equilibrium exchange (Da=1000), beta=1",1,15,-0.45176679628841143
+"T1 equilibrium exchange (Da=1000), beta=1",1,16,0.023066288372729726
+"T1 equilibrium exchange (Da=1000), beta=1",1,17,-0.7311437908422324
+"T1 equilibrium exchange (Da=1000), beta=1",1,18,-0.42872838206529507
+"T1 equilibrium exchange (Da=1000), beta=1",1,19,-0.38731882424494835
+"T1 equilibrium exchange (Da=1000), beta=1",1,20,-0.8305452664105566
+"T1 equilibrium exchange (Da=1000), beta=1",1,21,-0.5077421952744487
+"T1 equilibrium exchange (Da=1000), beta=1",1,22,-0.37746490142275635
+"T1 equilibrium exchange (Da=1000), beta=1",1,23,-0.4749795467963609
+"T1 equilibrium exchange (Da=1000), beta=1",1,24,-0.4543692605932812
+"T1 equilibrium exchange (Da=1000), beta=1",1,25,-0.5645369961549793
+"T1 equilibrium exchange (Da=1000), beta=1",1,26,-0.6379596248366386
+"T1 equilibrium exchange (Da=1000), beta=1",1,27,-0.548631402262782
+"T1 equilibrium exchange (Da=1000), beta=1",1,28,-0.472370162732358
+"T1 equilibrium exchange (Da=1000), beta=1",1,29,-0.17486920504839698
+"T1 equilibrium exchange (Da=1000), beta=1",1,30,-0.3667236305268602
+"T1 equilibrium exchange (Da=1000), beta=1",1,31,-0.35437830449357666
+"T1 equilibrium exchange (Da=1000), beta=1",1,32,-0.09076436984222491
+"T1 equilibrium exchange (Da=1000), beta=1",1,33,-0.7522571691076843
+"T1 equilibrium exchange (Da=1000), beta=1",1,34,-0.5676298572820206
+"T1 equilibrium exchange (Da=1000), beta=1",1,35,-0.4457367553406168
+"T1 equilibrium exchange (Da=1000), beta=1",1,36,-0.37743341882621895
+"T1 equilibrium exchange (Da=1000), beta=1",1,37,-0.33434614515795125
+"T1 equilibrium exchange (Da=1000), beta=1",1,38,-0.5875544523910621
+"T1 equilibrium exchange (Da=1000), beta=1",1,39,-0.2653649441416226
+"T1 equilibrium exchange (Da=1000), beta=1",1,40,-0.48193044959562487
+"T1 equilibrium exchange (Da=1000), beta=1",1,41,-0.4893446483574455
+"T1 equilibrium exchange (Da=1000), beta=1",1,42,-0.496893577565928
+"T1 equilibrium exchange (Da=1000), beta=1",1,43,-0.4796806863891869
+"T1 equilibrium exchange (Da=1000), beta=1",1,44,-0.5616893268992486
+"T1 equilibrium exchange (Da=1000), beta=1",1,45,-0.5986897383247471
+"T1 equilibrium exchange (Da=1000), beta=1",1,46,-0.054666900135816876
+"T1 equilibrium exchange (Da=1000), beta=1",1,47,-0.5436363098876436
+"T1 equilibrium exchange (Da=1000), beta=1",1,48,-0.42685407024981387
+"T1 equilibrium exchange (Da=1000), beta=1",1,49,-0.4120453522848925
+"T1 equilibrium exchange (Da=1000), beta=1",1,50,-0.6561384376467081
+"T1 equilibrium exchange (Da=1000), beta=1",1,51,-0.6498520801764757
+"T1 equilibrium exchange (Da=1000), beta=1",1,52,-0.2803805852301424
+"T1 equilibrium exchange (Da=1000), beta=1",1,53,-0.4490990522180213
+"T1 equilibrium exchange (Da=1000), beta=1",1,54,-0.384606428734493
+"T1 equilibrium exchange (Da=1000), beta=1",1,55,-0.571665673424594
+"T1 equilibrium exchange (Da=1000), beta=1",1,56,-0.4542317913978924
+"T1 equilibrium exchange (Da=1000), beta=1",1,57,-0.578479370708622
+"T1 equilibrium exchange (Da=1000), beta=1",1,58,-0.33488297874389833
+"T1 equilibrium exchange (Da=1000), beta=1",1,59,-0.6137364991063963
+"T2 no exchange, K/(1+beta), D, beta=1",1,0,-0.6510810062040093
+"T2 no exchange, K/(1+beta), D, beta=1",1,1,-0.6918858720553402
+"T2 no exchange, K/(1+beta), D, beta=1",1,2,-0.5556171319250623
+"T2 no exchange, K/(1+beta), D, beta=1",1,3,-0.7996180762173886
+"T2 no exchange, K/(1+beta), D, beta=1",1,4,-0.6084199970215312
+"T2 no exchange, K/(1+beta), D, beta=1",1,5,-0.5867698264905317
+"T2 no exchange, K/(1+beta), D, beta=1",1,6,-0.5335097200085661
+"T2 no exchange, K/(1+beta), D, beta=1",1,7,-0.5522847721894069
+"T2 no exchange, K/(1+beta), D, beta=1",1,8,-0.7339842982121892
+"T2 no exchange, K/(1+beta), D, beta=1",1,9,-0.6385208112229285
+"T2 no exchange, K/(1+beta), D, beta=1",1,10,-0.540649859708942
+"T2 no exchange, K/(1+beta), D, beta=1",1,11,-0.6287732218848221
+"T2 no exchange, K/(1+beta), D, beta=1",1,12,-0.7116542373687191
+"T2 no exchange, K/(1+beta), D, beta=1",1,13,-0.571233001457798
+"T2 no exchange, K/(1+beta), D, beta=1",1,14,-0.8096272548653347
+"T2 no exchange, K/(1+beta), D, beta=1",1,15,-0.5641933975622279
+"T2 no exchange, K/(1+beta), D, beta=1",1,16,-0.35973954453624724
+"T2 no exchange, K/(1+beta), D, beta=1",1,17,-0.7391630951875519
+"T2 no exchange, K/(1+beta), D, beta=1",1,18,-0.6650363494097916
+"T2 no exchange, K/(1+beta), D, beta=1",1,19,-0.735622553271169
+"T2 no exchange, K/(1+beta), D, beta=1",1,20,-0.9647952828048983
+"T2 no exchange, K/(1+beta), D, beta=1",1,21,-0.8127142816491664
+"T2 no exchange, K/(1+beta), D, beta=1",1,22,-0.8039739210955313
+"T2 no exchange, K/(1+beta), D, beta=1",1,23,-0.6226251975090129
+"T2 no exchange, K/(1+beta), D, beta=1",1,24,-0.7384057767411196
+"T2 no exchange, K/(1+beta), D, beta=1",1,25,-0.7466488732567248
+"T2 no exchange, K/(1+beta), D, beta=1",1,26,-0.7775640089873272
+"T2 no exchange, K/(1+beta), D, beta=1",1,27,-0.5989006209337034
+"T2 no exchange, K/(1+beta), D, beta=1",1,28,-0.7086959010897356
+"T2 no exchange, K/(1+beta), D, beta=1",1,29,-0.5207571378789788
+"T2 no exchange, K/(1+beta), D, beta=1",1,30,-0.7001693639952158
+"T2 no exchange, K/(1+beta), D, beta=1",1,31,-0.5910934044379363
+"T2 no exchange, K/(1+beta), D, beta=1",1,32,-0.3800358725451509
+"T2 no exchange, K/(1+beta), D, beta=1",1,33,-0.8221648913632349
+"T2 no exchange, K/(1+beta), D, beta=1",1,34,-0.7468371850259299
+"T2 no exchange, K/(1+beta), D, beta=1",1,35,-0.5447206429736118
+"T2 no exchange, K/(1+beta), D, beta=1",1,36,-0.7563542687115155
+"T2 no exchange, K/(1+beta), D, beta=1",1,37,-0.7522788018736213
+"T2 no exchange, K/(1+beta), D, beta=1",1,38,-0.8454090092036851
+"T2 no exchange, K/(1+beta), D, beta=1",1,39,-0.6101848663371774
+"T2 no exchange, K/(1+beta), D, beta=1",1,40,-0.7186809788231593
+"T2 no exchange, K/(1+beta), D, beta=1",1,41,-0.5602492401357212
+"T2 no exchange, K/(1+beta), D, beta=1",1,42,-0.6265799406379234
+"T2 no exchange, K/(1+beta), D, beta=1",1,43,-0.6270472162746138
+"T2 no exchange, K/(1+beta), D, beta=1",1,44,-0.735631923115206
+"T2 no exchange, K/(1+beta), D, beta=1",1,45,-0.8268661189058738
+"T2 no exchange, K/(1+beta), D, beta=1",1,46,-0.3968631770367237
+"T2 no exchange, K/(1+beta), D, beta=1",1,47,-0.7182933326679153
+"T2 no exchange, K/(1+beta), D, beta=1",1,48,-0.6626959584052226
+"T2 no exchange, K/(1+beta), D, beta=1",1,49,-0.6009127774932149
+"T2 no exchange, K/(1+beta), D, beta=1",1,50,-0.6876455437721047
+"T2 no exchange, K/(1+beta), D, beta=1",1,51,-0.823425636878332
+"T2 no exchange, K/(1+beta), D, beta=1",1,52,-0.691349811850646
+"T2 no exchange, K/(1+beta), D, beta=1",1,53,-0.682238991076752
+"T2 no exchange, K/(1+beta), D, beta=1",1,54,-0.7819193609147128
+"T2 no exchange, K/(1+beta), D, beta=1",1,55,-0.8023184189230903
+"T2 no exchange, K/(1+beta), D, beta=1",1,56,-0.713564666317386
+"T2 no exchange, K/(1+beta), D, beta=1",1,57,-0.6289872745032847
+"T2 no exchange, K/(1+beta), D, beta=1",1,58,-0.6823094861981716
+"T2 no exchange, K/(1+beta), D, beta=1",1,59,-0.8168501400435555
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,0,-0.6907709433218407
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,1,-0.6162005246520532
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,2,-0.41946017099858024
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,3,-0.8526448427775177
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,4,-0.44726598975546794
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,5,-0.41612977211541863
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,6,-0.5670059174788828
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,7,-0.570615710441289
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,8,-0.5423333893817804
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,9,-0.6593730888846634
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,10,-0.46553287361638385
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,11,-0.4770196385941885
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,12,-0.6259884824372672
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,13,-0.8175275995210931
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,14,-0.7845470779886441
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,15,-0.35088738963299154
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,16,-0.13716128848106002
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,17,-0.7350598798020715
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,18,-0.7413316825329886
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,19,-0.7031506137089149
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,20,-0.9027330644634515
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,21,-0.7232601663070688
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,22,-0.5939874535583239
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,23,-0.6606248769939476
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,24,-0.6971687783960961
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,25,-0.6862784927370369
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,26,-0.66310250831979
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,27,-0.683040006206725
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,28,-0.7486742915240365
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,29,-0.43547225913166754
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,30,-0.6207922675041506
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,31,-0.5155524804335816
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,32,-0.28693613651382943
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,33,-0.719387226808989
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,34,-0.653303281919912
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,35,-0.5992768814197826
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,36,-0.6434744633338899
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,37,-0.5740305227012679
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,38,-0.7216759781633285
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,39,-0.550495410621503
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,40,-0.7837675382072922
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,41,-0.5634193636092177
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,42,-0.658697614650813
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,43,-0.5148263480735162
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,44,-0.7142691421212513
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,45,-0.6220684113866399
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,46,-0.2142909743914514
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,47,-0.7875477996945883
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,48,-0.624847542367317
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,49,-0.5576801105359394
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,50,-0.7552767397353182
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,51,-0.680280690942023
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,52,-0.646519120157991
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,53,-0.6193406207360861
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,54,-0.7378610138262061
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,55,-0.6816984778355764
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,56,-0.8120674893263111
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,57,-0.8076724222323037
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,58,-0.5343198674665413
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",1,59,-0.7811587021132932
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,0,-0.243040705785958
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,1,-0.4116384544943384
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,2,-0.06780872095670626
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,3,-0.1339286799075661
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,4,-0.28638353762282226
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,5,-0.1381925384074978
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,6,-0.2240055012164462
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,7,-0.14442064078938516
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,8,0.033295926989185376
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,9,-0.2529418759133359
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,10,-0.13622791125872724
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,11,-0.3063965365101701
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,12,-0.19385856379596417
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,13,-0.15374927433004287
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,14,-0.15328093947195848
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,15,-0.2313370281309755
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,16,-0.023876700330896172
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,17,-0.26091134102650937
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,18,-0.18611716660384392
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,19,-0.0493222383229056
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,20,-0.27127215914084735
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,21,-0.10922661944699397
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,22,-0.10545682520433458
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,23,-0.4265206511665628
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,24,-0.2912254087249298
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,25,-0.32755443879869484
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,26,-0.18772662300733312
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,27,-0.006357871307258345
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,28,-0.35192335158144344
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,29,-0.013225479630174813
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,30,0.0021534708781694722
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,31,-0.2630877161876362
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,32,-0.14917393454144823
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,33,-0.24807529867086323
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,34,-0.23114769222498172
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,35,-0.15241878800418085
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,36,-0.312429705120201
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,37,-0.11894980006368394
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,38,0.06321202638466891
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,39,-0.11279182152101325
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,40,-0.113747578884911
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,41,-0.35519222712290344
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,42,-0.22178474665670916
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,43,-0.13334769438729033
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,44,-0.006352032288364895
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,45,-0.15125147048930643
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,46,-0.15916546382421815
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,47,-0.3277643233870844
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,48,-0.18872888836065044
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,49,-0.15394628147455788
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,50,-0.20463780606581347
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,51,-0.12714457937616272
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,52,-0.25518851686704824
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,53,-0.3250920970921826
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,54,-0.1874920784226024
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,55,-0.12152642850486028
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,56,-0.1773149100758585
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,57,-0.19504435422759217
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,58,-0.32529589300237793
+"T1 equilibrium exchange (Da=1000), beta=0.25",2,59,-0.30896987131673304
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,0,-0.2684322466205093
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,1,-0.25133656868786286
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,2,-0.23872330432572292
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,3,-0.152923638290157
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,4,-0.19743334826490028
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,5,-0.2662470270962667
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,6,-0.14123755275712463
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,7,-0.07417795419109241
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,8,-0.32915441642006366
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,9,-0.22914696648915392
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,10,-0.22453143075912851
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,11,-0.34873070896776687
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,12,-0.28546659948339415
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,13,-0.1934612905507565
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,14,-0.16694849539329448
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,15,-0.20658019010097114
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,16,-0.17756592644388447
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,17,-0.23082734140693373
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,18,-0.22438874954022925
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,19,-0.2614623282382989
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,20,-0.33844929960142056
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,21,-0.08497945641267557
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,22,-0.1976909303123045
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,23,-0.22851046839506553
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,24,-0.3528106841537451
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,25,-0.26589673141715786
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,26,-0.25141677726761813
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,27,-0.17752299753755008
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,28,-0.34670054549449864
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,29,-0.11471781376393039
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,30,-0.06827975780259848
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,31,-0.294477690743779
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,32,-0.11476388691073147
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,33,-0.16461952410788352
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,34,-0.13742875772294805
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,35,-0.22656877166492315
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,36,-0.2340776197367833
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,37,-0.20823734175133812
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,38,-0.11543656540508195
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,39,-0.2567029940314236
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,40,-0.1758235874709207
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,41,-0.3097270804324138
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,42,-0.20101167152175747
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,43,-0.039578499306911596
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,44,-0.10735236871375142
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,45,-0.27626295616884167
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,46,-0.17743592228379312
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,47,-0.22920659646409172
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,48,-0.2480957954540226
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,49,-0.20317489193978044
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,50,-0.2251713165815321
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,51,-0.3088934082276519
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,52,-0.3289107495403285
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,53,-0.35421038421271867
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,54,-0.19099447672903103
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,55,-0.23942112465304555
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,56,-0.1320501446742788
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,57,-0.2580507277032773
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,58,-0.2487561477785527
+"T2 no exchange, K/(1+beta), D, beta=0.25",2,59,-0.2505606491622277
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,0,-0.2517548768017234
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,1,-0.4364603613054154
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,2,-0.258931343578714
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,3,-0.15440728837625942
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,4,-0.18522738567568076
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,5,-0.17886099486644466
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,6,-0.13173667165275937
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,7,-0.18366262282637957
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,8,-0.13323265562379638
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,9,-0.2920343458484553
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,10,-0.2038513422525141
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,11,-0.2515852798850659
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,12,-0.24798169926027686
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,13,-0.16683084382741514
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,14,-0.02528791539712419
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,15,-0.28098244582612936
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,16,-0.16843548474888492
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,17,-0.2601413600910063
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,18,-0.30199406981367966
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,19,-0.24993491761499617
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,20,-0.19190524853406066
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,21,-0.11668369137357665
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,22,-0.04951840177568351
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,23,-0.2735361167569592
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,24,-0.268664924458833
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,25,-0.24913496498911017
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,26,-0.3267065639285126
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,27,-0.1235939114316395
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,28,-0.37114868684353913
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,29,-0.01897731757645124
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,30,-0.11985137705295401
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,31,-0.2771886522404719
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,32,-0.11719945568305379
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,33,-0.23783334523003175
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,34,-0.11801809664397932
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,35,-0.3329694266881862
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,36,-0.20606017816274574
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,37,-0.16593876620144266
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,38,-0.03273519099018703
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,39,-0.02098861895176779
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,40,-0.13528559866807977
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,41,-0.24921871188924255
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,42,-0.2781945429440943
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,43,-0.186489410154877
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,44,-0.14924291217265817
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,45,-0.2643472311356785
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,46,-0.18681045801581364
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,47,-0.3236370014930057
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,48,-0.19835174866382227
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,49,-0.2573160773554716
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,50,-0.23292437399085986
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,51,-0.34727180830099985
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,52,-0.42519515972244126
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,53,-0.39441279386365
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,54,-0.19590256948123952
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,55,-0.16967612527548392
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,56,-0.19730910919336928
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,57,-0.3124697792413347
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,58,-0.24765248649353522
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",2,59,-0.2639778841193563
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,0,-0.25998923101918464
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,1,-0.4750183948994777
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,2,-0.3746621369705572
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,3,-0.2092812801405959
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,4,-0.3157570512334334
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,5,-0.3285726188247518
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,6,-0.193646905590385
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,7,-0.1910043164571657
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,8,-0.25874249509819064
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,9,-0.33646947461969345
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,10,-0.36991157539983166
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,11,-0.35624869839976275
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,12,-0.411302531488044
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,13,-0.41500968098911
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,14,-0.27658586924090617
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,15,-0.28383692014720047
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,16,-0.26883962157294006
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,17,-0.4660964801894778
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,18,-0.4406718339949006
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,19,-0.35974957525924567
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,20,-0.47946074114537723
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,21,-0.2532479781452887
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,22,-0.15478968467639187
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,23,-0.47370285068514695
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,24,-0.3775509864457247
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,25,-0.3988927973405322
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,26,-0.4275189384857244
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,27,-0.37703316093527023
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,28,-0.42573112500337146
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,29,-0.18785176885693747
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,30,-0.10847591538917917
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,31,-0.44135982237992405
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,32,-0.185398423497934
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,33,-0.4317917450584555
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,34,-0.27902564301044985
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,35,-0.46005115562561166
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,36,-0.29785253693775327
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,37,-0.2978033870215413
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,38,-0.32866780171670545
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,39,-0.26782812333198636
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,40,-0.33521162765197826
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,41,-0.504974504982315
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,42,-0.24308987068917146
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,43,-0.40036497461648723
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,44,-0.47312707293248457
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,45,-0.44677917673031997
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,46,-0.3424120637872521
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,47,-0.5668179900413057
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,48,-0.3235573471618729
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,49,-0.3492168456718694
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,50,-0.30492215006084966
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,51,-0.592111618323393
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,52,-0.3821532772480998
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,53,-0.6014129854617289
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,54,-0.28280967131865453
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,55,-0.35878240340340706
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,56,-0.29577536284399475
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,57,-0.4993156929840219
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,58,-0.2538268283595795
+"T1 equilibrium exchange (Da=1000), beta=0.5",2,59,-0.38386662867253546
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,0,-0.5184733722160386
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,1,-0.4590383750214119
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,2,-0.46154050973138033
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,3,-0.4051154506218425
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,4,-0.39812287498652243
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,5,-0.4468869371660259
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,6,-0.3543326362487612
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,7,-0.27857455537438913
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,8,-0.5395232213351728
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,9,-0.4321760326168342
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,10,-0.4291941410028336
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,11,-0.4944430703272284
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,12,-0.5161780999612248
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,13,-0.5212312470486051
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,14,-0.40853677226947915
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,15,-0.5199247349847871
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,16,-0.35566449887900853
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,17,-0.5041084081473859
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,18,-0.4612114759817043
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,19,-0.439787854145418
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,20,-0.49125649716722153
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,21,-0.36930700165126423
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,22,-0.27814023990423226
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,23,-0.5492527337306077
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,24,-0.5455182897024404
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,25,-0.5002279039414783
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,26,-0.46927373485811574
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,27,-0.4295145842812217
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,28,-0.42850151270173215
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,29,-0.37894301040951317
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,30,-0.271774943860426
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,31,-0.6014810255412044
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,32,-0.28090625050127316
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,33,-0.34589740139818426
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,34,-0.4144594095477919
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,35,-0.44101753310365993
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,36,-0.48887701326315325
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,37,-0.5907995977716283
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,38,-0.3899057447653992
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,39,-0.35927646002148794
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,40,-0.3373809976403829
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,41,-0.5300618186079394
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,42,-0.4431427908429849
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,43,-0.4297890288213596
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,44,-0.38156988824667204
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,45,-0.5722612657726833
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,46,-0.24910740985877466
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,47,-0.653571950414249
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,48,-0.39742449305065675
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,49,-0.4282219364566842
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,50,-0.5019346620381502
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,51,-0.5389290358453691
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,52,-0.5964775472344481
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,53,-0.5947559382368544
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,54,-0.4720909598100067
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,55,-0.37193590405474075
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,56,-0.41035465050985653
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,57,-0.4998129147843138
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,58,-0.4429956217968203
+"T2 no exchange, K/(1+beta), D, beta=0.5",2,59,-0.49379086737323996
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,0,-0.4145294660151548
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,1,-0.5524915723842329
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,2,-0.44063131211382506
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,3,-0.45812979516102814
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,4,-0.3403807791843982
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,5,-0.44468666231004655
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,6,-0.2709235395529791
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,7,-0.3124039837435889
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,8,-0.4386433296908851
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,9,-0.39986460982924843
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,10,-0.45258295290520956
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,11,-0.4667275659703866
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,12,-0.38741245015612924
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,13,-0.41524001535953375
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,14,-0.46962400223047174
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,15,-0.478507467288819
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,16,-0.38431077288132154
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,17,-0.44610979370680437
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,18,-0.48672351971647254
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,19,-0.45424331547350927
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,20,-0.5534894663698029
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,21,-0.22892458664130738
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,22,-0.317075325717917
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,23,-0.37062055888882606
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,24,-0.5265748258103866
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,25,-0.5855756201111123
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,26,-0.46787272627975024
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,27,-0.28218831946001477
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,28,-0.43176419712533204
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,29,-0.2491169814053106
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,30,-0.2145089761638455
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,31,-0.447536818890276
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,32,-0.2431734669103136
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,33,-0.39977515401455777
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,34,-0.4040212692071468
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,35,-0.31343823525763914
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,36,-0.49602836550427243
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,37,-0.43861798586790623
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,38,-0.3582187950183048
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,39,-0.42219740848628096
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,40,-0.3757566350246505
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,41,-0.5226553137893437
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,42,-0.37189409499204107
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,43,-0.3459834140301783
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,44,-0.42393957227622386
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,45,-0.3953183405703349
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,46,-0.3572683742193319
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,47,-0.5907658425642639
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,48,-0.561600971578335
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,49,-0.45642837754504584
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,50,-0.36245188854834287
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,51,-0.5758230046904226
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,52,-0.5070026693430565
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,53,-0.49944133665445956
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,54,-0.45168081233601565
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,55,-0.45763963285761133
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,56,-0.24627850546085953
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,57,-0.583309722841072
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,58,-0.47739577270164846
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",2,59,-0.5073699256720586
+"T1 equilibrium exchange (Da=1000), beta=1",2,0,-0.45153480316372513
+"T1 equilibrium exchange (Da=1000), beta=1",2,1,-0.661139405674101
+"T1 equilibrium exchange (Da=1000), beta=1",2,2,-0.5447012682339265
+"T1 equilibrium exchange (Da=1000), beta=1",2,3,-0.45859844025617913
+"T1 equilibrium exchange (Da=1000), beta=1",2,4,-0.268062289256424
+"T1 equilibrium exchange (Da=1000), beta=1",2,5,-0.4106095668782317
+"T1 equilibrium exchange (Da=1000), beta=1",2,6,-0.42640239045126016
+"T1 equilibrium exchange (Da=1000), beta=1",2,7,-0.31671289864135443
+"T1 equilibrium exchange (Da=1000), beta=1",2,8,-0.6345211053779616
+"T1 equilibrium exchange (Da=1000), beta=1",2,9,-0.46981412491286034
+"T1 equilibrium exchange (Da=1000), beta=1",2,10,-0.6288459333576132
+"T1 equilibrium exchange (Da=1000), beta=1",2,11,-0.626008119998601
+"T1 equilibrium exchange (Da=1000), beta=1",2,12,-0.6040849089893544
+"T1 equilibrium exchange (Da=1000), beta=1",2,13,-0.5285845367492261
+"T1 equilibrium exchange (Da=1000), beta=1",2,14,-0.6374648337349468
+"T1 equilibrium exchange (Da=1000), beta=1",2,15,-0.44210233810150157
+"T1 equilibrium exchange (Da=1000), beta=1",2,16,-0.12908553246786036
+"T1 equilibrium exchange (Da=1000), beta=1",2,17,-0.7764070144718154
+"T1 equilibrium exchange (Da=1000), beta=1",2,18,-0.6565654302907751
+"T1 equilibrium exchange (Da=1000), beta=1",2,19,-0.5464596580195841
+"T1 equilibrium exchange (Da=1000), beta=1",2,20,-0.7406427869765606
+"T1 equilibrium exchange (Da=1000), beta=1",2,21,-0.2980187360350079
+"T1 equilibrium exchange (Da=1000), beta=1",2,22,-0.4253906946988399
+"T1 equilibrium exchange (Da=1000), beta=1",2,23,-0.5732535586352324
+"T1 equilibrium exchange (Da=1000), beta=1",2,24,-0.47814598916307416
+"T1 equilibrium exchange (Da=1000), beta=1",2,25,-0.6359141559549771
+"T1 equilibrium exchange (Da=1000), beta=1",2,26,-0.6507647715163108
+"T1 equilibrium exchange (Da=1000), beta=1",2,27,-0.5078091589214766
+"T1 equilibrium exchange (Da=1000), beta=1",2,28,-0.5597288774173912
+"T1 equilibrium exchange (Da=1000), beta=1",2,29,-0.38681363065538077
+"T1 equilibrium exchange (Da=1000), beta=1",2,30,-0.22483257334378925
+"T1 equilibrium exchange (Da=1000), beta=1",2,31,-0.48586067992111276
+"T1 equilibrium exchange (Da=1000), beta=1",2,32,-0.1540104181333002
+"T1 equilibrium exchange (Da=1000), beta=1",2,33,-0.4922397602046699
+"T1 equilibrium exchange (Da=1000), beta=1",2,34,-0.493136753802979
+"T1 equilibrium exchange (Da=1000), beta=1",2,35,-0.5240017678054048
+"T1 equilibrium exchange (Da=1000), beta=1",2,36,-0.5256696166671468
+"T1 equilibrium exchange (Da=1000), beta=1",2,37,-0.27112320900940934
+"T1 equilibrium exchange (Da=1000), beta=1",2,38,-0.4609925863585615
+"T1 equilibrium exchange (Da=1000), beta=1",2,39,-0.5676867055652042
+"T1 equilibrium exchange (Da=1000), beta=1",2,40,-0.6152270049310263
+"T1 equilibrium exchange (Da=1000), beta=1",2,41,-0.638360856813855
+"T1 equilibrium exchange (Da=1000), beta=1",2,42,-0.47678217114986976
+"T1 equilibrium exchange (Da=1000), beta=1",2,43,-0.5661676204093249
+"T1 equilibrium exchange (Da=1000), beta=1",2,44,-0.6424227125188338
+"T1 equilibrium exchange (Da=1000), beta=1",2,45,-0.7484048714337821
+"T1 equilibrium exchange (Da=1000), beta=1",2,46,-0.18825182271879015
+"T1 equilibrium exchange (Da=1000), beta=1",2,47,-0.7345560005383602
+"T1 equilibrium exchange (Da=1000), beta=1",2,48,-0.5694764531575041
+"T1 equilibrium exchange (Da=1000), beta=1",2,49,-0.5503929588145091
+"T1 equilibrium exchange (Da=1000), beta=1",2,50,-0.504014621970499
+"T1 equilibrium exchange (Da=1000), beta=1",2,51,-0.7437489150141601
+"T1 equilibrium exchange (Da=1000), beta=1",2,52,-0.45487537752799856
+"T1 equilibrium exchange (Da=1000), beta=1",2,53,-0.578045888475878
+"T1 equilibrium exchange (Da=1000), beta=1",2,54,-0.3698913863418236
+"T1 equilibrium exchange (Da=1000), beta=1",2,55,-0.6124386093916828
+"T1 equilibrium exchange (Da=1000), beta=1",2,56,-0.5125627824925632
+"T1 equilibrium exchange (Da=1000), beta=1",2,57,-0.7148577749963811
+"T1 equilibrium exchange (Da=1000), beta=1",2,58,-0.5318246687518524
+"T1 equilibrium exchange (Da=1000), beta=1",2,59,-0.5583605279994045
+"T2 no exchange, K/(1+beta), D, beta=1",2,0,-0.7019270493117735
+"T2 no exchange, K/(1+beta), D, beta=1",2,1,-0.9831829904465331
+"T2 no exchange, K/(1+beta), D, beta=1",2,2,-0.692996135166978
+"T2 no exchange, K/(1+beta), D, beta=1",2,3,-0.5131444003786522
+"T2 no exchange, K/(1+beta), D, beta=1",2,4,-0.6956201741442616
+"T2 no exchange, K/(1+beta), D, beta=1",2,5,-0.8262876028967704
+"T2 no exchange, K/(1+beta), D, beta=1",2,6,-0.5751478090315272
+"T2 no exchange, K/(1+beta), D, beta=1",2,7,-0.5181247755394865
+"T2 no exchange, K/(1+beta), D, beta=1",2,8,-0.7831309838755383
+"T2 no exchange, K/(1+beta), D, beta=1",2,9,-0.7486118647854856
+"T2 no exchange, K/(1+beta), D, beta=1",2,10,-0.759221640117259
+"T2 no exchange, K/(1+beta), D, beta=1",2,11,-0.6430446732598023
+"T2 no exchange, K/(1+beta), D, beta=1",2,12,-0.8435796651968022
+"T2 no exchange, K/(1+beta), D, beta=1",2,13,-0.7538813672930342
+"T2 no exchange, K/(1+beta), D, beta=1",2,14,-0.8055951308749262
+"T2 no exchange, K/(1+beta), D, beta=1",2,15,-0.723660671626902
+"T2 no exchange, K/(1+beta), D, beta=1",2,16,-0.5376579167893452
+"T2 no exchange, K/(1+beta), D, beta=1",2,17,-0.800359910096625
+"T2 no exchange, K/(1+beta), D, beta=1",2,18,-0.8026580743746836
+"T2 no exchange, K/(1+beta), D, beta=1",2,19,-0.6783415489565366
+"T2 no exchange, K/(1+beta), D, beta=1",2,20,-0.783062692342218
+"T2 no exchange, K/(1+beta), D, beta=1",2,21,-0.6665623348116072
+"T2 no exchange, K/(1+beta), D, beta=1",2,22,-0.593163654052165
+"T2 no exchange, K/(1+beta), D, beta=1",2,23,-0.6456575039561969
+"T2 no exchange, K/(1+beta), D, beta=1",2,24,-0.6270448151740169
+"T2 no exchange, K/(1+beta), D, beta=1",2,25,-0.8302583131327917
+"T2 no exchange, K/(1+beta), D, beta=1",2,26,-0.7719617933639771
+"T2 no exchange, K/(1+beta), D, beta=1",2,27,-0.6148988942269512
+"T2 no exchange, K/(1+beta), D, beta=1",2,28,-0.6100491876257055
+"T2 no exchange, K/(1+beta), D, beta=1",2,29,-0.7028917808509015
+"T2 no exchange, K/(1+beta), D, beta=1",2,30,-0.5339074878957351
+"T2 no exchange, K/(1+beta), D, beta=1",2,31,-0.699792813308088
+"T2 no exchange, K/(1+beta), D, beta=1",2,32,-0.4194131564214849
+"T2 no exchange, K/(1+beta), D, beta=1",2,33,-0.8052919841301363
+"T2 no exchange, K/(1+beta), D, beta=1",2,34,-0.6352554055117509
+"T2 no exchange, K/(1+beta), D, beta=1",2,35,-0.6852831169653422
+"T2 no exchange, K/(1+beta), D, beta=1",2,36,-0.6415216263736291
+"T2 no exchange, K/(1+beta), D, beta=1",2,37,-0.7388289912616313
+"T2 no exchange, K/(1+beta), D, beta=1",2,38,-0.6738711441258776
+"T2 no exchange, K/(1+beta), D, beta=1",2,39,-0.7102714581615017
+"T2 no exchange, K/(1+beta), D, beta=1",2,40,-0.720751142342533
+"T2 no exchange, K/(1+beta), D, beta=1",2,41,-0.730050554574847
+"T2 no exchange, K/(1+beta), D, beta=1",2,42,-0.6555158238528248
+"T2 no exchange, K/(1+beta), D, beta=1",2,43,-0.6585135494067715
+"T2 no exchange, K/(1+beta), D, beta=1",2,44,-0.8136309129418442
+"T2 no exchange, K/(1+beta), D, beta=1",2,45,-0.7582428430267635
+"T2 no exchange, K/(1+beta), D, beta=1",2,46,-0.44282497601469073
+"T2 no exchange, K/(1+beta), D, beta=1",2,47,-0.8454744562487084
+"T2 no exchange, K/(1+beta), D, beta=1",2,48,-0.6908378771456136
+"T2 no exchange, K/(1+beta), D, beta=1",2,49,-0.7380683115839646
+"T2 no exchange, K/(1+beta), D, beta=1",2,50,-0.5800989288961751
+"T2 no exchange, K/(1+beta), D, beta=1",2,51,-0.9264277498821665
+"T2 no exchange, K/(1+beta), D, beta=1",2,52,-0.5597559542656245
+"T2 no exchange, K/(1+beta), D, beta=1",2,53,-0.8171019056665866
+"T2 no exchange, K/(1+beta), D, beta=1",2,54,-0.6256992794966343
+"T2 no exchange, K/(1+beta), D, beta=1",2,55,-0.7438246846369372
+"T2 no exchange, K/(1+beta), D, beta=1",2,56,-0.7552874899267707
+"T2 no exchange, K/(1+beta), D, beta=1",2,57,-0.7635757792478015
+"T2 no exchange, K/(1+beta), D, beta=1",2,58,-0.7294470563624409
+"T2 no exchange, K/(1+beta), D, beta=1",2,59,-0.7133311635989649
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,0,-0.718192754183647
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,1,-0.8806760783412483
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,2,-0.6500490209865128
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,3,-0.579651732471793
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,4,-0.5321120444616168
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,5,-0.5721866984324931
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,6,-0.5551075937813974
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,7,-0.3976011592473393
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,8,-0.6855424523066509
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,9,-0.7320478489456111
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,10,-0.6516365261510451
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,11,-0.7794655493336766
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,12,-0.8066569432971213
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,13,-0.8776982432396281
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,14,-0.8488001129400157
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,15,-0.4703018424091632
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,16,-0.35486161052048204
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,17,-0.8878950231246654
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,18,-0.8815925713285682
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,19,-0.6703502620386942
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,20,-0.7631689767338705
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,21,-0.5925354259864402
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,22,-0.5898020124732974
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,23,-0.6776252410190351
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,24,-0.7144673488033004
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,25,-0.7183544800695372
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,26,-0.6600385591016426
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,27,-0.4401524205555478
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,28,-0.7695614033919869
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,29,-0.5236614435447168
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,30,-0.41431453040619703
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,31,-0.6443361868173756
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,32,-0.4044971765212815
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,33,-0.6243801985394061
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,34,-0.6807321844594522
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,35,-0.6070854059398522
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,36,-0.772706854110174
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,37,-0.5576969927288435
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,38,-0.6972939000233824
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,39,-0.665088525728321
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,40,-0.7046483352094851
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,41,-0.8696361729352176
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,42,-0.6633878994098545
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,43,-0.7159655671921035
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,44,-0.7750518885560777
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,45,-0.7394182000209677
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,46,-0.5382187373850535
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,47,-1.0151173886533142
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,48,-0.6752977453656164
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,49,-0.7648671755722626
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,50,-0.6090303336317061
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,51,-0.8999196619252103
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,52,-0.664281613160882
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,53,-0.6646301039793524
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,54,-0.7428182760724118
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,55,-0.6813596622649718
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,56,-0.727389730772465
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,57,-0.9194953870256377
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,58,-0.645572900175831
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",2,59,-0.7947482769228534
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,0,-0.1855203182263454
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,1,-0.06248560900927709
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,2,-0.14361364313410158
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,3,-0.10686871549260685
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,4,-0.16467359394682565
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,5,-0.29033443831056394
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,6,-0.23407528096582783
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,7,-0.21043871511537285
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,8,-0.19371731757040683
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,9,-0.29780119319657045
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,10,-0.15795292448025405
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,11,-0.0685183017135429
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,12,-0.21310031577575947
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,13,-0.21744574638913577
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,14,-0.07336395915015848
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,15,-0.1638469173133802
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,16,-0.1865578255846645
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,17,-0.3290501701696942
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,18,-0.14191648848028304
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,19,-0.31478826241475344
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,20,-0.06445697982706644
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,21,-0.06783065361760787
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,22,-0.14396129624964443
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,23,-0.25949789923265587
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,24,-0.32662402417025405
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,25,-0.07841238850751436
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,26,-0.2279903968842838
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,27,-0.3302226562404034
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,28,-0.22449061562620587
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,29,-0.10122142959081037
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,30,-0.09534618167129608
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,31,-0.24027114122513554
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,32,-0.04504959236115158
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,33,-0.16598141636376412
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,34,-0.07873526741356218
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,35,-0.1328310085066296
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,36,-0.16105627332106745
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,37,-0.035100036186389794
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,38,-0.045441589175886796
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,39,-0.0845635933348029
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,40,-0.09760144106928226
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,41,-0.03423740575655515
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,42,-0.13126234732917696
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,43,0.05292869439823431
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,44,-0.22398144213650703
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,45,0.07251156017834504
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,46,-0.20071733585392426
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,47,-0.12260138364702969
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,48,-0.1537972510471079
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,49,-0.2249997150073859
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,50,-0.20220979843660303
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,51,-0.07716293942495339
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,52,-0.3147753296665483
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,53,-0.26748410538828277
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,54,-0.026740602217267373
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,55,-0.21622123975372887
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,56,-0.17391321084171704
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,57,-0.052290290245152415
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,58,-0.2894567458823316
+"T1 equilibrium exchange (Da=1000), beta=0.25",3,59,-0.30232832446142066
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,0,-0.32728582260702876
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,1,-0.12120075691619746
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,2,-0.19724282645625785
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,3,-0.3978101701790872
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,4,-0.21610596588299613
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,5,-0.2801611620860004
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,6,-0.33289421017983184
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,7,-0.2130673022393362
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,8,-0.2852479376676407
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,9,-0.32051099188814586
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,10,-0.2561918367787072
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,11,-0.2859193813116878
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,12,-0.2062081852916726
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,13,-0.23090542016188503
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,14,-0.16765046338876677
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,15,-0.23113092882811392
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,16,-0.2069408921184508
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,17,-0.3327291981149383
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,18,-0.17184331621096927
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,19,-0.332276132945881
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,20,-0.14107599150198924
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,21,-0.07201011416591468
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,22,-0.22903641155393367
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,23,-0.18082483035157304
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,24,-0.23852722222816777
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,25,-0.2800304996834629
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,26,-0.2198628828375433
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,27,-0.3543909954838579
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,28,-0.24135128646822168
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,29,-0.31186136661010816
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,30,-0.23742349881080616
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,31,-0.3541001424203772
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,32,-0.17969267528594712
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,33,-0.24292683675644894
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,34,-0.3068376364323241
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,35,-0.16229384840284716
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,36,-0.015850306098952438
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,37,-0.20732233613991058
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,38,-0.10565082468868495
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,39,-0.1477493677866788
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,40,-0.2149501094482114
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,41,-0.11738198838195205
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,42,-0.15799897391280804
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,43,-0.05125174178042333
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,44,-0.15349122001220994
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,45,-0.02383611756399273
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,46,-0.08404203067829119
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,47,-0.07410596859020438
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,48,-0.14323000386779094
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,49,-0.21566293121141109
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,50,-0.245955946082771
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,51,-0.22896637144643428
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,52,-0.26631714352634317
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,53,-0.09956345900706445
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,54,-0.13576671809948548
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,55,-0.2695586586819092
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,56,-0.16274043087407045
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,57,-0.15898526781411726
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,58,-0.3151878218326607
+"T2 no exchange, K/(1+beta), D, beta=0.25",3,59,-0.1859114002306857
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,0,-0.2668766400135345
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,1,-0.10498594756926964
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,2,-0.10864054334086398
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,3,-0.2507126230873893
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,4,-0.20341581320831134
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,5,-0.41370360335572487
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,6,-0.2522746622590302
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,7,-0.24980343181404432
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,8,-0.1548114046767684
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,9,-0.23701062981484225
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,10,-0.22946992029610747
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,11,-0.23639712903696863
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,12,-0.16911272158479446
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,13,-0.24096040453541084
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,14,-0.17378793627991418
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,15,-0.22475518894368454
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,16,-0.23041387014125414
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,17,-0.3907580969673652
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,18,-0.2201691411781871
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,19,-0.30497349230031046
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,20,-0.07875316343704974
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,21,-0.06985592963689119
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,22,-0.13578898664609773
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,23,-0.311633072963559
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,24,-0.2647155129276557
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,25,-0.23393076847035224
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,26,-0.2504833028403348
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,27,-0.3179723409389355
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,28,-0.23814285111120492
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,29,-0.17481056002518458
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,30,-0.1478131014234228
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,31,-0.24787861603543898
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,32,-0.21378532516616477
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,33,-0.25857609803808423
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,34,-0.39875997012704634
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,35,-0.25188431189241034
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,36,-0.1657379867123705
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,37,-0.10770043120915695
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,38,-0.07673046825488586
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,39,-0.19266268145813714
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,40,-0.18401685814966878
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,41,-0.24069762337561354
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,42,-0.18707702191960623
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,43,-0.06462386248360845
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,44,-0.21268679388054912
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,45,-0.02901932935792728
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,46,-0.2923989929280866
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,47,-0.12318548537100499
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,48,-0.18447123022739464
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,49,-0.20480797883077378
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,50,-0.24355639049512992
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,51,-0.18110179460460973
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,52,-0.34426498385678195
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,53,-0.2183594455713302
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,54,-0.11007876919962722
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,55,-0.30610947502514096
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,56,-0.10369525974254631
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,57,-0.13450338606209744
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,58,-0.2946586735624048
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",3,59,-0.3526911517556427
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,0,-0.39348717631179464
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,1,-0.26220954328786783
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,2,-0.18448896653823482
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,3,-0.29365364919846637
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,4,-0.23843136964977696
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,5,-0.39535046154349596
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,6,-0.378482568322796
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,7,-0.353125902578341
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,8,-0.20274485064335274
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,9,-0.5013097916034566
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,10,-0.3659322083408453
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,11,-0.26304055091209544
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,12,-0.3475581176439555
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,13,-0.3012209395579249
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,14,-0.3198683404861055
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,15,-0.3821466003808572
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,16,-0.14866774059054233
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,17,-0.5384718515648403
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,18,-0.21115909214922285
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,19,-0.3875698888256107
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,20,-0.3961154401464955
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,21,-0.13163118004510127
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,22,-0.23998908578221734
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,23,-0.49692963733565854
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,24,-0.5036750108654654
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,25,-0.16390049059379033
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,26,-0.48574064877331713
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,27,-0.5072482767948364
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,28,-0.343599623889689
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,29,-0.22190909692141803
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,30,-0.2657492115264295
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,31,-0.45494278362353496
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,32,-0.11176733078894974
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,33,-0.3521937353949628
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,34,-0.43530151967537767
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,35,-0.3105768635358511
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,36,-0.1743133627930655
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,37,-0.11754058089491481
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,38,-0.188470803286865
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,39,-0.2911910504192383
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,40,-0.3184495510779701
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,41,-0.21287916566237328
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,42,-0.3886289825292198
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,43,-0.24993076123120064
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,44,-0.3125695625062595
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,45,-0.13112380511992106
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,46,-0.13573413470438656
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,47,-0.29703870808893906
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,48,-0.2764810264740084
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,49,-0.42341410177018285
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,50,-0.4188125597627762
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,51,-0.29190056831288125
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,52,-0.3675657810276174
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,53,-0.37406899597955223
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,54,-0.23769607477932841
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,55,-0.3966875206285194
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,56,-0.24577538715357658
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,57,-0.32453516177150565
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,58,-0.372148079088084
+"T1 equilibrium exchange (Da=1000), beta=0.5",3,59,-0.39100048716262853
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,0,-0.4517065087158332
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,1,-0.3225356710747471
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,2,-0.3569087956414399
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,3,-0.4235628699012023
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,4,-0.3286415315329946
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,5,-0.575690499859087
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,6,-0.5542207401322748
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,7,-0.44595636069885813
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,8,-0.4493823107043327
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,9,-0.5277393291446828
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,10,-0.5278283235784487
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,11,-0.32383096424915014
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,12,-0.4334277600490285
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,13,-0.4606949596541537
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,14,-0.41171457384699844
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,15,-0.25583253413849955
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,16,-0.4219929456540905
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,17,-0.43771795029025995
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,18,-0.40167928205619474
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,19,-0.5388144798890755
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,20,-0.4071554063082763
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,21,-0.23867170952378353
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,22,-0.3585173232109453
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,23,-0.3938619360923952
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,24,-0.4881956481375215
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,25,-0.3781590677342085
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,26,-0.41124161888903216
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,27,-0.5558309826896082
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,28,-0.3808903015622509
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,29,-0.4593414398627291
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,30,-0.4922286339713436
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,31,-0.529692323634247
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,32,-0.25172229561472625
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,33,-0.42056665564206835
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,34,-0.46130397708987014
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,35,-0.32144830267792285
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,36,-0.21181770899682514
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,37,-0.3557409852883713
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,38,-0.3660071667347937
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,39,-0.43247659325748655
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,40,-0.30986814971168253
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,41,-0.24640608826791768
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,42,-0.3389540319161679
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,43,-0.22245333571357778
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,44,-0.4023666200806875
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,45,-0.3803251991599139
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,46,-0.2836933116822862
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,47,-0.30491753430262314
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,48,-0.3652701136913906
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,49,-0.479271927827605
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,50,-0.4040253820606916
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,51,-0.3484003054747799
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,52,-0.45199007433615446
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,53,-0.4946015431120182
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,54,-0.438895622921037
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,55,-0.36166896062575105
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,56,-0.32061670340327764
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,57,-0.4722054658191165
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,58,-0.5342831919436619
+"T2 no exchange, K/(1+beta), D, beta=0.5",3,59,-0.4657321315804923
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,0,-0.5188593796402166
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,1,-0.3062254217672036
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,2,-0.29054096301493343
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,3,-0.4851949456900025
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,4,-0.26214343913135807
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,5,-0.49411242505934183
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,6,-0.44918730551294417
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,7,-0.4473270094432207
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,8,-0.2568095245543605
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,9,-0.5384235836190074
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,10,-0.39390553923008187
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,11,-0.5007051841216597
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,12,-0.30743779215973205
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,13,-0.2199972183698345
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,14,-0.37457397056843206
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,15,-0.4097080027387955
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,16,-0.3638259323384261
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,17,-0.4928212510682839
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,18,-0.3891055573404576
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,19,-0.4853370678308403
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,20,-0.3459315114022999
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,21,-0.3301164153344615
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,22,-0.37175209602691783
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,23,-0.5086604356207634
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,24,-0.4930424919238754
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,25,-0.48503840950658916
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,26,-0.40940418503129655
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,27,-0.5521654287430455
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,28,-0.43310938400845433
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,29,-0.4179233968587605
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,30,-0.4006450967931779
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,31,-0.5730235377172439
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,32,-0.2034553351094015
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,33,-0.38990320239349335
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,34,-0.4978892927360815
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,35,-0.4084248648866103
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,36,-0.28294798728114223
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,37,-0.34717304797574533
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,38,-0.26652903152409185
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,39,-0.3112186511457511
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,40,-0.3534266846655185
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,41,-0.206460422044912
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,42,-0.3012935424156806
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,43,-0.38362611125005336
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,44,-0.43180256004401574
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,45,-0.10229226049238105
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,46,-0.42122974470501195
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,47,-0.3051952596927192
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,48,-0.29268112097933463
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,49,-0.4384933531229171
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,50,-0.37586503141629607
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,51,-0.3097842055512093
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,52,-0.45441482344194606
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,53,-0.44687591057122333
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,54,-0.25864525932636684
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,55,-0.4262552609399919
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,56,-0.4005275586660306
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,57,-0.35620772133734924
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,58,-0.4394833520618189
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",3,59,-0.5844311349309492
+"T1 equilibrium exchange (Da=1000), beta=1",3,0,-0.5801648592668176
+"T1 equilibrium exchange (Da=1000), beta=1",3,1,-0.47746412240281383
+"T1 equilibrium exchange (Da=1000), beta=1",3,2,-0.3045913725043062
+"T1 equilibrium exchange (Da=1000), beta=1",3,3,-0.576077202523044
+"T1 equilibrium exchange (Da=1000), beta=1",3,4,-0.4178118690900998
+"T1 equilibrium exchange (Da=1000), beta=1",3,5,-0.3981529212555266
+"T1 equilibrium exchange (Da=1000), beta=1",3,6,-0.6704044242834257
+"T1 equilibrium exchange (Da=1000), beta=1",3,7,-0.4017663826921034
+"T1 equilibrium exchange (Da=1000), beta=1",3,8,-0.2889951809040077
+"T1 equilibrium exchange (Da=1000), beta=1",3,9,-0.6423920159980696
+"T1 equilibrium exchange (Da=1000), beta=1",3,10,-0.6430920985759251
+"T1 equilibrium exchange (Da=1000), beta=1",3,11,-0.29133415010773533
+"T1 equilibrium exchange (Da=1000), beta=1",3,12,-0.5474644145212556
+"T1 equilibrium exchange (Da=1000), beta=1",3,13,-0.2976884467033419
+"T1 equilibrium exchange (Da=1000), beta=1",3,14,-0.581541801339954
+"T1 equilibrium exchange (Da=1000), beta=1",3,15,-0.2732351500125466
+"T1 equilibrium exchange (Da=1000), beta=1",3,16,-0.027901905782642178
+"T1 equilibrium exchange (Da=1000), beta=1",3,17,-0.7156312953135648
+"T1 equilibrium exchange (Da=1000), beta=1",3,18,-0.4803587006292802
+"T1 equilibrium exchange (Da=1000), beta=1",3,19,-0.41363596122518953
+"T1 equilibrium exchange (Da=1000), beta=1",3,20,-0.5299268916691353
+"T1 equilibrium exchange (Da=1000), beta=1",3,21,-0.4060860166731119
+"T1 equilibrium exchange (Da=1000), beta=1",3,22,-0.2649948348254898
+"T1 equilibrium exchange (Da=1000), beta=1",3,23,-0.5846584766542527
+"T1 equilibrium exchange (Da=1000), beta=1",3,24,-0.47059040492482496
+"T1 equilibrium exchange (Da=1000), beta=1",3,25,-0.5505235064334846
+"T1 equilibrium exchange (Da=1000), beta=1",3,26,-0.6054324666418882
+"T1 equilibrium exchange (Da=1000), beta=1",3,27,-0.7070503585426654
+"T1 equilibrium exchange (Da=1000), beta=1",3,28,-0.481879066446417
+"T1 equilibrium exchange (Da=1000), beta=1",3,29,-0.34097192533750403
+"T1 equilibrium exchange (Da=1000), beta=1",3,30,-0.4443210419750468
+"T1 equilibrium exchange (Da=1000), beta=1",3,31,-0.5084111817813342
+"T1 equilibrium exchange (Da=1000), beta=1",3,32,0.09463315429103636
+"T1 equilibrium exchange (Da=1000), beta=1",3,33,-0.6761544525639758
+"T1 equilibrium exchange (Da=1000), beta=1",3,34,-0.522315364810996
+"T1 equilibrium exchange (Da=1000), beta=1",3,35,-0.435077603969411
+"T1 equilibrium exchange (Da=1000), beta=1",3,36,-0.43526285557760713
+"T1 equilibrium exchange (Da=1000), beta=1",3,37,-0.07462283202869657
+"T1 equilibrium exchange (Da=1000), beta=1",3,38,-0.3774287230946045
+"T1 equilibrium exchange (Da=1000), beta=1",3,39,-0.29030255778405323
+"T1 equilibrium exchange (Da=1000), beta=1",3,40,-0.5266034678492193
+"T1 equilibrium exchange (Da=1000), beta=1",3,41,-0.42859686595633223
+"T1 equilibrium exchange (Da=1000), beta=1",3,42,-0.5431091724495724
+"T1 equilibrium exchange (Da=1000), beta=1",3,43,-0.45930650340275736
+"T1 equilibrium exchange (Da=1000), beta=1",3,44,-0.420029551131433
+"T1 equilibrium exchange (Da=1000), beta=1",3,45,-0.3316877953509685
+"T1 equilibrium exchange (Da=1000), beta=1",3,46,-0.07898990511510418
+"T1 equilibrium exchange (Da=1000), beta=1",3,47,-0.5002611128368211
+"T1 equilibrium exchange (Da=1000), beta=1",3,48,-0.500398317944737
+"T1 equilibrium exchange (Da=1000), beta=1",3,49,-0.6836851682085555
+"T1 equilibrium exchange (Da=1000), beta=1",3,50,-0.7092985291728439
+"T1 equilibrium exchange (Da=1000), beta=1",3,51,-0.4835699293738247
+"T1 equilibrium exchange (Da=1000), beta=1",3,52,-0.25914017226420194
+"T1 equilibrium exchange (Da=1000), beta=1",3,53,-0.4507733597773751
+"T1 equilibrium exchange (Da=1000), beta=1",3,54,-0.11941900957196028
+"T1 equilibrium exchange (Da=1000), beta=1",3,55,-0.7454309734984254
+"T1 equilibrium exchange (Da=1000), beta=1",3,56,-0.47428244833592714
+"T1 equilibrium exchange (Da=1000), beta=1",3,57,-0.5825465960716895
+"T1 equilibrium exchange (Da=1000), beta=1",3,58,-0.40483156581148916
+"T1 equilibrium exchange (Da=1000), beta=1",3,59,-0.5344541014943704
+"T2 no exchange, K/(1+beta), D, beta=1",3,0,-0.762695728197408
+"T2 no exchange, K/(1+beta), D, beta=1",3,1,-0.6806000364904452
+"T2 no exchange, K/(1+beta), D, beta=1",3,2,-0.555864215465933
+"T2 no exchange, K/(1+beta), D, beta=1",3,3,-0.7322022741805098
+"T2 no exchange, K/(1+beta), D, beta=1",3,4,-0.6367384520068726
+"T2 no exchange, K/(1+beta), D, beta=1",3,5,-0.649084928227629
+"T2 no exchange, K/(1+beta), D, beta=1",3,6,-0.7695247178826585
+"T2 no exchange, K/(1+beta), D, beta=1",3,7,-0.6455070873098545
+"T2 no exchange, K/(1+beta), D, beta=1",3,8,-0.6838308245993876
+"T2 no exchange, K/(1+beta), D, beta=1",3,9,-0.8247345853530779
+"T2 no exchange, K/(1+beta), D, beta=1",3,10,-0.8287822057975354
+"T2 no exchange, K/(1+beta), D, beta=1",3,11,-0.5556877151793573
+"T2 no exchange, K/(1+beta), D, beta=1",3,12,-0.710096544984228
+"T2 no exchange, K/(1+beta), D, beta=1",3,13,-0.736297502427441
+"T2 no exchange, K/(1+beta), D, beta=1",3,14,-0.7050334160519016
+"T2 no exchange, K/(1+beta), D, beta=1",3,15,-0.6420657035322116
+"T2 no exchange, K/(1+beta), D, beta=1",3,16,-0.41779358954698176
+"T2 no exchange, K/(1+beta), D, beta=1",3,17,-0.8011800759625594
+"T2 no exchange, K/(1+beta), D, beta=1",3,18,-0.7009499998875057
+"T2 no exchange, K/(1+beta), D, beta=1",3,19,-0.7454659908370418
+"T2 no exchange, K/(1+beta), D, beta=1",3,20,-0.6378008344751184
+"T2 no exchange, K/(1+beta), D, beta=1",3,21,-0.6919637150830091
+"T2 no exchange, K/(1+beta), D, beta=1",3,22,-0.6347201209441655
+"T2 no exchange, K/(1+beta), D, beta=1",3,23,-0.6928669302497781
+"T2 no exchange, K/(1+beta), D, beta=1",3,24,-0.6843544563048133
+"T2 no exchange, K/(1+beta), D, beta=1",3,25,-0.7529404925799559
+"T2 no exchange, K/(1+beta), D, beta=1",3,26,-0.7581608254041955
+"T2 no exchange, K/(1+beta), D, beta=1",3,27,-0.7597297042483608
+"T2 no exchange, K/(1+beta), D, beta=1",3,28,-0.6618471016340388
+"T2 no exchange, K/(1+beta), D, beta=1",3,29,-0.6834789818787126
+"T2 no exchange, K/(1+beta), D, beta=1",3,30,-0.7209016040842655
+"T2 no exchange, K/(1+beta), D, beta=1",3,31,-0.7397878728863689
+"T2 no exchange, K/(1+beta), D, beta=1",3,32,-0.17897591715696493
+"T2 no exchange, K/(1+beta), D, beta=1",3,33,-0.7836522311883224
+"T2 no exchange, K/(1+beta), D, beta=1",3,34,-0.8143032576662016
+"T2 no exchange, K/(1+beta), D, beta=1",3,35,-0.7368983952693102
+"T2 no exchange, K/(1+beta), D, beta=1",3,36,-0.566016736021767
+"T2 no exchange, K/(1+beta), D, beta=1",3,37,-0.5167081236772082
+"T2 no exchange, K/(1+beta), D, beta=1",3,38,-0.7176676491723941
+"T2 no exchange, K/(1+beta), D, beta=1",3,39,-0.7286850600059815
+"T2 no exchange, K/(1+beta), D, beta=1",3,40,-0.6658365293795876
+"T2 no exchange, K/(1+beta), D, beta=1",3,41,-0.527089740009048
+"T2 no exchange, K/(1+beta), D, beta=1",3,42,-0.6500432891362249
+"T2 no exchange, K/(1+beta), D, beta=1",3,43,-0.6278305668059991
+"T2 no exchange, K/(1+beta), D, beta=1",3,44,-0.7733303408169058
+"T2 no exchange, K/(1+beta), D, beta=1",3,45,-0.4772542766434471
+"T2 no exchange, K/(1+beta), D, beta=1",3,46,-0.48236643750203423
+"T2 no exchange, K/(1+beta), D, beta=1",3,47,-0.7369484373730947
+"T2 no exchange, K/(1+beta), D, beta=1",3,48,-0.5296014602638172
+"T2 no exchange, K/(1+beta), D, beta=1",3,49,-0.8567894388564017
+"T2 no exchange, K/(1+beta), D, beta=1",3,50,-0.676863258357656
+"T2 no exchange, K/(1+beta), D, beta=1",3,51,-0.6767127651933222
+"T2 no exchange, K/(1+beta), D, beta=1",3,52,-0.6562632644970432
+"T2 no exchange, K/(1+beta), D, beta=1",3,53,-0.6297187623860103
+"T2 no exchange, K/(1+beta), D, beta=1",3,54,-0.5880091215892032
+"T2 no exchange, K/(1+beta), D, beta=1",3,55,-0.6841186609261779
+"T2 no exchange, K/(1+beta), D, beta=1",3,56,-0.7627268550260098
+"T2 no exchange, K/(1+beta), D, beta=1",3,57,-0.5730093428265449
+"T2 no exchange, K/(1+beta), D, beta=1",3,58,-0.6423435706681793
+"T2 no exchange, K/(1+beta), D, beta=1",3,59,-0.7251572291681598
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,0,-0.8007685005239555
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,1,-0.6904776855320023
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,2,-0.48356671142186164
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,3,-0.7362062458350868
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,4,-0.5188802823814922
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,5,-0.7134097227782099
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,6,-0.7785255015420769
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,7,-0.6032637111915331
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,8,-0.46615009750507214
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,9,-0.9233613433859273
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,10,-0.7940906239206758
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,11,-0.5403996811529606
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,12,-0.6960127298579886
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,13,-0.6292104713680127
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,14,-0.8034437849341443
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,15,-0.32811820705944234
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,16,-0.1396181740090512
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,17,-0.7711279709108652
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,18,-0.7123095189794177
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,19,-0.756914712238252
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,20,-0.6246339935454568
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,21,-0.4907407178975373
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,22,-0.5518313473964374
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,23,-0.6978090910525558
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,24,-0.7502235288967763
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,25,-0.7921657493827382
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,26,-0.6655280254524476
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,27,-0.696165278178435
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,28,-0.6864086637145548
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,29,-0.6914457104412954
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,30,-0.7482869408087292
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,31,-0.7150295357942829
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,32,-0.23918877442505382
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,33,-0.7263928201056771
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,34,-0.7801086885226588
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,35,-0.55738888905323
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,36,-0.6081993154711007
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,37,-0.25911503525164736
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,38,-0.5678516669243912
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,39,-0.6048850278878939
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,40,-0.7928701936644875
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,41,-0.5864450320036092
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,42,-0.688083088466332
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,43,-0.5799457329187265
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,44,-0.7514058379048265
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,45,-0.43849837457132546
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,46,-0.2905386980270377
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,47,-0.6106854604704627
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,48,-0.6911328829889304
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,49,-0.7963854599031587
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,50,-0.7455409048842577
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,51,-0.6506710409471959
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,52,-0.679254135424809
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,53,-0.620243559224803
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,54,-0.4470350970873258
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,55,-0.7985133113695502
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,56,-0.6792178631968828
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,57,-0.8177843935883718
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,58,-0.47447828220113486
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",3,59,-0.7883485171770513
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,0,-0.08940055660307178
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,1,-0.0917639422013245
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,2,-0.0874889396591787
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,3,-0.14530289600550897
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,4,-0.22029108765699945
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,5,-0.1442756212901466
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,6,-0.2873405445945129
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,7,-0.14357862153127443
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,8,-0.24090707649260218
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,9,-0.1001498744391105
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,10,-0.2532768040986288
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,11,-0.21690152287261433
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,12,-0.24080157277811784
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,13,-0.16647707366832037
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,14,-0.16188847476444643
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,15,-0.26747137064856574
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,16,-0.08068804225273452
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,17,-0.26447765613222063
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,18,-0.16814211498042872
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,19,-0.10679804583871053
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,20,-0.2100991700603061
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,21,0.04360314372669638
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,22,-0.08088604181658923
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,23,-0.08591818633739357
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,24,-0.01895664130487869
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,25,-0.17085740456225415
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,26,-0.1694569850556631
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,27,-0.1983489283526011
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,28,-0.24515543518101857
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,29,-0.08898423402677091
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,30,-0.16425270629327612
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,31,-0.21934311475614177
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,32,-0.014447752720365248
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,33,-0.3260822206680817
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,34,-0.14673718115371714
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,35,-0.06606655080760224
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,36,-0.15134616964236045
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,37,-0.34286370684986167
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,38,-0.2223152065592856
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,39,-0.3140458573108748
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,40,-0.446938749050043
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,41,-0.22172405128123152
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,42,-0.3296977858512895
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,43,-0.14987231058204595
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,44,-0.11618958668440835
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,45,-0.3457133899383582
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,46,-0.1772356700742208
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,47,-0.059443962272317796
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,48,-0.16997814449296553
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,49,-0.1656314003165012
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,50,-0.2146497249436614
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,51,-0.21887508544715045
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,52,-0.16891889352617517
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,53,-0.11115244184288205
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,54,-0.3664030252046171
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,55,-0.24217970324985805
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,56,-0.16798403686187502
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,57,-0.24558630282527696
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,58,-0.23883231748545564
+"T1 equilibrium exchange (Da=1000), beta=0.25",4,59,-0.1998190368411275
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,0,-0.08215956487902942
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,1,-0.3325026413014788
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,2,-0.17983749528680915
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,3,-0.18133409787683535
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,4,-0.15487063842990753
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,5,-0.19785330313228638
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,6,-0.26138021124355043
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,7,-0.1818288205579946
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,8,-0.3382991184762869
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,9,-0.1730964345800042
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,10,-0.2033485970103191
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,11,-0.32553416116218914
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,12,-0.34040612325316466
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,13,-0.22628766314990828
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,14,-0.1685279569955022
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,15,-0.2467924372165438
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,16,-0.13270112452411276
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,17,-0.314242484665578
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,18,-0.173770716758776
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,19,-0.1682928220024364
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,20,-0.16544091269962813
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,21,-0.06879557817335852
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,22,-0.16409571679366683
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,23,-0.16015884361368066
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,24,-0.14570380741236114
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,25,-0.3286998405509225
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,26,-0.24238745019887786
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,27,-0.24091736109809686
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,28,-0.33990620131558424
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,29,-0.31775782483589743
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,30,-0.2333594605806015
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,31,-0.25724655102223215
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,32,-0.14015580660188443
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,33,-0.2807306777068569
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,34,-0.09910446398743794
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,35,-0.12014985805999537
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,36,-0.04726432313218264
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,37,-0.3727484748516643
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,38,-0.21125531720912655
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,39,-0.2927039115604532
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,40,-0.3915754481996591
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,41,-0.221550916777075
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,42,-0.31046078226731316
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,43,-0.05541427506558087
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,44,-0.2122358111480293
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,45,-0.35796141697879436
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,46,-0.2612337692475688
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,47,-0.1873389529489624
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,48,-0.26752804011972675
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,49,-0.11824845851664609
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,50,-0.21523032175542875
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,51,-0.34064933617937393
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,52,-0.23373468829911115
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,53,-0.14554633627724112
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,54,-0.31098366578531533
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,55,-0.4321920617343362
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,56,-0.30350569777097197
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,57,-0.3980947492297747
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,58,-0.4087153775085375
+"T2 no exchange, K/(1+beta), D, beta=0.25",4,59,-0.1986593559088199
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,0,-0.11755767874321355
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,1,-0.11934703499304897
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,2,-0.0677631736492843
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,3,-0.19986495403816207
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,4,-0.12039410686017699
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,5,-0.20078943402388738
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,6,-0.3284358923542462
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,7,-0.13840983191981326
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,8,-0.2493648490382312
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,9,-0.1745700459785227
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,10,-0.32770739461982956
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,11,-0.34331284419182695
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,12,-0.30245496447751385
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,13,-0.14459449499624327
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,14,-0.1775177320406671
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,15,-0.28355131345583445
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,16,-0.2250966443165079
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,17,-0.2538298012113871
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,18,-0.27115009221387676
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,19,-0.1152259098544996
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,20,-0.26736688550605425
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,21,-0.11773728366342318
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,22,-0.08794032939908905
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,23,-0.14395705567119516
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,24,-0.11728426598844716
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,25,-0.36013433895425956
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,26,-0.22995108415047105
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,27,-0.21950700090962538
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,28,-0.3767458961532564
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,29,-0.23752666098975728
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,30,-0.2253689931957996
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,31,-0.2509513119225437
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,32,-0.19640269261824006
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,33,-0.24577607565761464
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,34,-0.11012172622868503
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,35,-0.21257109080997674
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,36,-0.14852378839395686
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,37,-0.30795386339405484
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,38,-0.21912830759354351
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,39,-0.33538671606570264
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,40,-0.3549390330760534
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,41,-0.20091432481043622
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,42,-0.39631231957963353
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,43,-0.10761323860326252
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,44,-0.2174833894887588
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,45,-0.42033513213196594
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,46,-0.24385426921720965
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,47,-0.13915238446265493
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,48,-0.22156847989674597
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,49,-0.15026993203002062
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,50,-0.29208864024109327
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,51,-0.2814219895490601
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,52,-0.19151505287871795
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,53,-0.20419944111255037
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,54,-0.41222039556330037
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,55,-0.2715359901266987
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,56,-0.21960941306311244
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,57,-0.21230667373878834
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,58,-0.366965255074146
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.25",4,59,-0.24801124175996142
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,0,-0.2655675541736464
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,1,-0.42819322844586927
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,2,-0.2993673942325763
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,3,-0.26969182069383196
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,4,-0.3918141019809831
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,5,-0.22213106422449644
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,6,-0.419509224703541
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,7,-0.24434154758486581
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,8,-0.3974456165353575
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,9,-0.252953276514185
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,10,-0.3246305528997541
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,11,-0.4847672178415221
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,12,-0.39418278899171055
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,13,-0.3172108950108153
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,14,-0.31123978271391994
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,15,-0.3008281022557594
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,16,-0.1531558830991615
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,17,-0.5745093370779122
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,18,-0.30431999000394905
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,19,-0.2628162825579178
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,20,-0.4114454858834242
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,21,-0.18815097888789212
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,22,-0.2464857762952534
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,23,-0.34319528164154367
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,24,-0.14720469796096206
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,25,-0.41840131390506785
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,26,-0.3568060245365761
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,27,-0.3828062228094069
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,28,-0.4305479020202141
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,29,-0.29412789683672047
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,30,-0.3503054700803975
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,31,-0.4003071516637329
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,32,-0.2606078937259262
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,33,-0.4239193036152331
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,34,-0.09089170106042793
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,35,-0.37271364195452134
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,36,-0.18984770155136743
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,37,-0.30045203314880475
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,38,-0.2717970485225026
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,39,-0.38705056565705015
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,40,-0.4835573124286023
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,41,-0.3694069736638006
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,42,-0.42027802672741155
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,43,-0.2253276061889492
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,44,-0.3642560906743404
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,45,-0.6799334815839779
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,46,-0.16685414560360812
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,47,-0.2804898752891976
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,48,-0.35756219769462383
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,49,-0.3453709570089137
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,50,-0.33168672902517937
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,51,-0.5420748790024106
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,52,-0.20397418659015565
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,53,-0.3674894465744826
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,54,-0.47862655786838193
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,55,-0.44511471155762905
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,56,-0.3778104849569365
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,57,-0.45291651191662685
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,58,-0.4740219150567322
+"T1 equilibrium exchange (Da=1000), beta=0.5",4,59,-0.29607462259101985
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,0,-0.39485975415817554
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,1,-0.48885329631977026
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,2,-0.33513877629369193
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,3,-0.42015306271743613
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,4,-0.4540787318840662
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,5,-0.29993511567272463
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,6,-0.3065961975459209
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,7,-0.44261733279348436
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,8,-0.5225597330398912
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,9,-0.47507213775639345
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,10,-0.474594784146126
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,11,-0.5736652422629596
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,12,-0.4170209595682148
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,13,-0.5029684635250986
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,14,-0.42768561702691943
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,15,-0.4417996309631465
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,16,-0.33824995399656954
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,17,-0.5659586976849131
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,18,-0.35338693502433316
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,19,-0.3565315435086466
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,20,-0.2815564182303847
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,21,-0.35156395823838027
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,22,-0.298441784422804
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,23,-0.36657348797828854
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,24,-0.262544942041881
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,25,-0.45706630485315713
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,26,-0.43478572390271253
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,27,-0.43886503579336555
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,28,-0.587849759769631
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,29,-0.35200804987672085
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,30,-0.2467258950989518
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,31,-0.475463255011944
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,32,-0.33104255532083116
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,33,-0.46112822222823296
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,34,-0.17659299336274828
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,35,-0.29538645066659797
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,36,-0.2949871303192887
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,37,-0.4542714496976923
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,38,-0.4132619902195149
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,39,-0.46384443911726375
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,40,-0.5825862467878125
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,41,-0.36067614036001727
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,42,-0.5011016003654921
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,43,-0.2560258491441156
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,44,-0.31023179123341316
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,45,-0.7557829982555675
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,46,-0.3437134057070572
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,47,-0.3137973006347014
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,48,-0.4297992443675466
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,49,-0.3300172176208539
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,50,-0.40147432865088517
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,51,-0.3383176413129913
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,52,-0.39521660551345184
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,53,-0.36270002891043224
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,54,-0.5849415348020959
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,55,-0.4307165836389697
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,56,-0.4804561494121298
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,57,-0.5488312870680715
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,58,-0.5620887174556053
+"T2 no exchange, K/(1+beta), D, beta=0.5",4,59,-0.3018425307080528
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,0,-0.3513458036045063
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,1,-0.3353385430502255
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,2,-0.3621126538999042
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,3,-0.30504225275805097
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,4,-0.41512791198241117
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,5,-0.40674427162004845
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,6,-0.4816541124706294
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,7,-0.40456825654151585
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,8,-0.43454794215550474
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,9,-0.3404335487698848
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,10,-0.4817728854130089
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,11,-0.5334475242845054
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,12,-0.3933100166092836
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,13,-0.45343886858717825
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,14,-0.3108686266650671
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,15,-0.5161646745569679
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,16,-0.208122798308358
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,17,-0.6418326858147103
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,18,-0.4156556032882842
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,19,-0.37760324473905915
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,20,-0.32127346901771214
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,21,-0.2692583565222737
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,22,-0.3072856536307398
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,23,-0.3416823389425645
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,24,-0.315093810598207
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,25,-0.48573511310327755
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,26,-0.4318209172207282
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,27,-0.33096365939476424
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,28,-0.500908295857907
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,29,-0.3324194205520481
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,30,-0.3723183266166531
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,31,-0.4980660230329179
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,32,-0.2962208108528812
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,33,-0.5221107671828435
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,34,-0.315078607288469
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,35,-0.3649685728948761
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,36,-0.22161137025944755
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,37,-0.41226873276978804
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,38,-0.3732994087301515
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,39,-0.38958613700334793
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,40,-0.6584579586215169
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,41,-0.3969019104843219
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,42,-0.5305759459331523
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,43,-0.19650958484931175
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,44,-0.3947863132473713
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,45,-0.6220739806414002
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,46,-0.3413568821485611
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,47,-0.3076680308037011
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,48,-0.4529924282904073
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,49,-0.40475278450871144
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,50,-0.35420669991010245
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,51,-0.4032285836747372
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,52,-0.4065773484021382
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,53,-0.5020286049764243
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,54,-0.5842456391231723
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,55,-0.5617841994120585
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,56,-0.48488974314472455
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,57,-0.5029960086974518
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,58,-0.518830337713085
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=0.5",4,59,-0.4203973061447665
+"T1 equilibrium exchange (Da=1000), beta=1",4,0,-0.5328385483505782
+"T1 equilibrium exchange (Da=1000), beta=1",4,1,-0.6080336960815858
+"T1 equilibrium exchange (Da=1000), beta=1",4,2,-0.40463942627897787
+"T1 equilibrium exchange (Da=1000), beta=1",4,3,-0.44729266193398093
+"T1 equilibrium exchange (Da=1000), beta=1",4,4,-0.6088877048446225
+"T1 equilibrium exchange (Da=1000), beta=1",4,5,-0.5815995962490259
+"T1 equilibrium exchange (Da=1000), beta=1",4,6,-0.6471782944738778
+"T1 equilibrium exchange (Da=1000), beta=1",4,7,-0.5515126539701884
+"T1 equilibrium exchange (Da=1000), beta=1",4,8,-0.6350399555360138
+"T1 equilibrium exchange (Da=1000), beta=1",4,9,-0.4890731833764513
+"T1 equilibrium exchange (Da=1000), beta=1",4,10,-0.5595316430964767
+"T1 equilibrium exchange (Da=1000), beta=1",4,11,-0.5023791324602107
+"T1 equilibrium exchange (Da=1000), beta=1",4,12,-0.5392522608766215
+"T1 equilibrium exchange (Da=1000), beta=1",4,13,-0.5031556103281096
+"T1 equilibrium exchange (Da=1000), beta=1",4,14,-0.5150089789296028
+"T1 equilibrium exchange (Da=1000), beta=1",4,15,-0.417322148152691
+"T1 equilibrium exchange (Da=1000), beta=1",4,16,0.03967449833199255
+"T1 equilibrium exchange (Da=1000), beta=1",4,17,-0.7569537081103336
+"T1 equilibrium exchange (Da=1000), beta=1",4,18,-0.42379120805456727
+"T1 equilibrium exchange (Da=1000), beta=1",4,19,-0.4420091646632195
+"T1 equilibrium exchange (Da=1000), beta=1",4,20,-0.5253653208783222
+"T1 equilibrium exchange (Da=1000), beta=1",4,21,-0.43715588475915457
+"T1 equilibrium exchange (Da=1000), beta=1",4,22,-0.4388233968234243
+"T1 equilibrium exchange (Da=1000), beta=1",4,23,-0.5184026608346465
+"T1 equilibrium exchange (Da=1000), beta=1",4,24,-0.47866204982982014
+"T1 equilibrium exchange (Da=1000), beta=1",4,25,-0.5953521612138484
+"T1 equilibrium exchange (Da=1000), beta=1",4,26,-0.6417722732220936
+"T1 equilibrium exchange (Da=1000), beta=1",4,27,-0.6347116142802508
+"T1 equilibrium exchange (Da=1000), beta=1",4,28,-0.500602169694099
+"T1 equilibrium exchange (Da=1000), beta=1",4,29,-0.4007473386915603
+"T1 equilibrium exchange (Da=1000), beta=1",4,30,-0.4740890055132093
+"T1 equilibrium exchange (Da=1000), beta=1",4,31,-0.4795432134529487
+"T1 equilibrium exchange (Da=1000), beta=1",4,32,-0.17924470082469424
+"T1 equilibrium exchange (Da=1000), beta=1",4,33,-0.5394782481565151
+"T1 equilibrium exchange (Da=1000), beta=1",4,34,-0.619248536681982
+"T1 equilibrium exchange (Da=1000), beta=1",4,35,-0.4123387780644764
+"T1 equilibrium exchange (Da=1000), beta=1",4,36,-0.3665561372564239
+"T1 equilibrium exchange (Da=1000), beta=1",4,37,-0.33466602934669143
+"T1 equilibrium exchange (Da=1000), beta=1",4,38,-0.6148288975690512
+"T1 equilibrium exchange (Da=1000), beta=1",4,39,-0.6185748257435111
+"T1 equilibrium exchange (Da=1000), beta=1",4,40,-0.6433971247390612
+"T1 equilibrium exchange (Da=1000), beta=1",4,41,-0.4914164934858018
+"T1 equilibrium exchange (Da=1000), beta=1",4,42,-0.6398735146504371
+"T1 equilibrium exchange (Da=1000), beta=1",4,43,-0.3802224466934058
+"T1 equilibrium exchange (Da=1000), beta=1",4,44,-0.5256710607692665
+"T1 equilibrium exchange (Da=1000), beta=1",4,45,-1.064066130359846
+"T1 equilibrium exchange (Da=1000), beta=1",4,46,-0.059792608338403275
+"T1 equilibrium exchange (Da=1000), beta=1",4,47,-0.5369023748156073
+"T1 equilibrium exchange (Da=1000), beta=1",4,48,-0.6666966597471612
+"T1 equilibrium exchange (Da=1000), beta=1",4,49,-0.5517204279378741
+"T1 equilibrium exchange (Da=1000), beta=1",4,50,-0.5154284295798743
+"T1 equilibrium exchange (Da=1000), beta=1",4,51,-0.557686071574657
+"T1 equilibrium exchange (Da=1000), beta=1",4,52,-0.3840877678146637
+"T1 equilibrium exchange (Da=1000), beta=1",4,53,-0.4693408227682469
+"T1 equilibrium exchange (Da=1000), beta=1",4,54,-0.6036272920999513
+"T1 equilibrium exchange (Da=1000), beta=1",4,55,-0.6482202885095016
+"T1 equilibrium exchange (Da=1000), beta=1",4,56,-0.5538742917677364
+"T1 equilibrium exchange (Da=1000), beta=1",4,57,-0.6173950919193986
+"T1 equilibrium exchange (Da=1000), beta=1",4,58,-0.4497635366877468
+"T1 equilibrium exchange (Da=1000), beta=1",4,59,-0.5375335645957178
+"T2 no exchange, K/(1+beta), D, beta=1",4,0,-0.628914131671279
+"T2 no exchange, K/(1+beta), D, beta=1",4,1,-0.717254382830752
+"T2 no exchange, K/(1+beta), D, beta=1",4,2,-0.49100846502230944
+"T2 no exchange, K/(1+beta), D, beta=1",4,3,-0.5544267713578221
+"T2 no exchange, K/(1+beta), D, beta=1",4,4,-0.8268531043738941
+"T2 no exchange, K/(1+beta), D, beta=1",4,5,-0.7577992321128393
+"T2 no exchange, K/(1+beta), D, beta=1",4,6,-0.7251546170186415
+"T2 no exchange, K/(1+beta), D, beta=1",4,7,-0.7541897536479298
+"T2 no exchange, K/(1+beta), D, beta=1",4,8,-0.9274817053265889
+"T2 no exchange, K/(1+beta), D, beta=1",4,9,-0.5873936646265285
+"T2 no exchange, K/(1+beta), D, beta=1",4,10,-0.791338623038094
+"T2 no exchange, K/(1+beta), D, beta=1",4,11,-0.6597814134993822
+"T2 no exchange, K/(1+beta), D, beta=1",4,12,-0.6804019138649003
+"T2 no exchange, K/(1+beta), D, beta=1",4,13,-0.7263310962260321
+"T2 no exchange, K/(1+beta), D, beta=1",4,14,-0.7195180006740567
+"T2 no exchange, K/(1+beta), D, beta=1",4,15,-0.5914652241579835
+"T2 no exchange, K/(1+beta), D, beta=1",4,16,-0.4066729241657243
+"T2 no exchange, K/(1+beta), D, beta=1",4,17,-0.8371980259985861
+"T2 no exchange, K/(1+beta), D, beta=1",4,18,-0.6614403063581448
+"T2 no exchange, K/(1+beta), D, beta=1",4,19,-0.5837734866005283
+"T2 no exchange, K/(1+beta), D, beta=1",4,20,-0.7574702132456057
+"T2 no exchange, K/(1+beta), D, beta=1",4,21,-0.670589214139977
+"T2 no exchange, K/(1+beta), D, beta=1",4,22,-0.6707480300046542
+"T2 no exchange, K/(1+beta), D, beta=1",4,23,-0.5924262946731935
+"T2 no exchange, K/(1+beta), D, beta=1",4,24,-0.4488773301541654
+"T2 no exchange, K/(1+beta), D, beta=1",4,25,-0.7262877035839991
+"T2 no exchange, K/(1+beta), D, beta=1",4,26,-0.7427575513084465
+"T2 no exchange, K/(1+beta), D, beta=1",4,27,-0.701845094950322
+"T2 no exchange, K/(1+beta), D, beta=1",4,28,-0.7124340546282726
+"T2 no exchange, K/(1+beta), D, beta=1",4,29,-0.7305148339482801
+"T2 no exchange, K/(1+beta), D, beta=1",4,30,-0.7130321757964543
+"T2 no exchange, K/(1+beta), D, beta=1",4,31,-0.6671699615439486
+"T2 no exchange, K/(1+beta), D, beta=1",4,32,-0.4160905044516794
+"T2 no exchange, K/(1+beta), D, beta=1",4,33,-0.7071871772441345
+"T2 no exchange, K/(1+beta), D, beta=1",4,34,-0.6642619643495022
+"T2 no exchange, K/(1+beta), D, beta=1",4,35,-0.700773457645081
+"T2 no exchange, K/(1+beta), D, beta=1",4,36,-0.581276453563555
+"T2 no exchange, K/(1+beta), D, beta=1",4,37,-0.555970905682863
+"T2 no exchange, K/(1+beta), D, beta=1",4,38,-0.8127506635435953
+"T2 no exchange, K/(1+beta), D, beta=1",4,39,-0.7860046014271982
+"T2 no exchange, K/(1+beta), D, beta=1",4,40,-0.8984469493572087
+"T2 no exchange, K/(1+beta), D, beta=1",4,41,-0.6745151627160543
+"T2 no exchange, K/(1+beta), D, beta=1",4,42,-0.7383264078710995
+"T2 no exchange, K/(1+beta), D, beta=1",4,43,-0.5612528148466981
+"T2 no exchange, K/(1+beta), D, beta=1",4,44,-0.6718420986554688
+"T2 no exchange, K/(1+beta), D, beta=1",4,45,-1.0111665110157828
+"T2 no exchange, K/(1+beta), D, beta=1",4,46,-0.4204176750044675
+"T2 no exchange, K/(1+beta), D, beta=1",4,47,-0.5653999411807694
+"T2 no exchange, K/(1+beta), D, beta=1",4,48,-0.7387733684303964
+"T2 no exchange, K/(1+beta), D, beta=1",4,49,-0.7637529086394101
+"T2 no exchange, K/(1+beta), D, beta=1",4,50,-0.6822099942326134
+"T2 no exchange, K/(1+beta), D, beta=1",4,51,-0.7808458156517746
+"T2 no exchange, K/(1+beta), D, beta=1",4,52,-0.5089322018792841
+"T2 no exchange, K/(1+beta), D, beta=1",4,53,-0.6880854915469685
+"T2 no exchange, K/(1+beta), D, beta=1",4,54,-0.7335536788605219
+"T2 no exchange, K/(1+beta), D, beta=1",4,55,-0.8234454712057827
+"T2 no exchange, K/(1+beta), D, beta=1",4,56,-0.7130500321718409
+"T2 no exchange, K/(1+beta), D, beta=1",4,57,-0.7561618179548056
+"T2 no exchange, K/(1+beta), D, beta=1",4,58,-0.6608606760236602
+"T2 no exchange, K/(1+beta), D, beta=1",4,59,-0.673817462028978
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,0,-0.6659355620779084
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,1,-0.7803231057977085
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,2,-0.5538233985425889
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,3,-0.6220453670312878
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,4,-0.7765219229938839
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,5,-0.6420209219221924
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,6,-0.7571007654093634
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,7,-0.7198262250333667
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,8,-0.8275599175960286
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,9,-0.6648115306183341
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,10,-0.6978042366331926
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,11,-0.7264281090036451
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,12,-0.6921587985143027
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,13,-0.7639004474653839
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,14,-0.7546654339754117
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,15,-0.5838840729971924
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,16,-0.07796320260135725
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,17,-0.8238068309341551
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,18,-0.6422378779455361
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,19,-0.6499889548146257
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,20,-0.6493050075663691
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,21,-0.7372445940650261
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,22,-0.5817344811952045
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,23,-0.5827530590150662
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,24,-0.4582563513815217
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,25,-0.6987766056256044
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,26,-0.7383974933271675
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,27,-0.6496244672664078
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,28,-0.6876208680138867
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,29,-0.7449977029558075
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,30,-0.6218301191721184
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,31,-0.7905816635213638
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,32,-0.37531355068607675
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,33,-0.6665790902433375
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,34,-0.5075521733664069
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,35,-0.5120316480589429
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,36,-0.507671583434105
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,37,-0.46225385937834007
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,38,-0.762747960802354
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,39,-0.8124524270728204
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,40,-0.833279414404803
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,41,-0.6326953980818902
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,42,-0.8737867192654598
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,43,-0.5607952009330653
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,44,-0.6120879220059948
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,45,-1.0164345604841274
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,46,-0.29911945987441446
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,47,-0.6438564301175004
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,48,-0.8722591764104172
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,49,-0.506965787097565
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,50,-0.6966607349019058
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,51,-0.8103848245956862
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,52,-0.5784048767097063
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,53,-0.5734506715786762
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,54,-0.7485249196290076
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,55,-0.6999514218175102
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,56,-0.7205878977713491
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,57,-0.7391867087947975
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,58,-0.7053926742196148
+"T4 no exchange, K/(1+beta), D/(1+beta), beta=1",4,59,-0.6491398892357689
